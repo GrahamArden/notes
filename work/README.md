@@ -1,0 +1,1 @@
+This folder contains work-related notes
