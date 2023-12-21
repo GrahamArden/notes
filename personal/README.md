@@ -1,1 +1,1 @@
-These are my non-work related notes
+These are my non-work related notes. It may become useful
