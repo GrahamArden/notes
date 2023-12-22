@@ -1,4 +1,7 @@
 #!/bin/bash
+
+git pull
+
 # Check the status of the Git repository
 gstatus=`git status --porcelain`
 
