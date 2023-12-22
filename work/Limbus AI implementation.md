@@ -8,5 +8,5 @@ Will be hosted on Compass servers:
 - Compass2019 for Version 1.7 (Clinical version)
 - Compass2021 for Version 1.8 (Testing version)
 
-Check with Stephen about transferring config files. Can we export form one version to another. e.g. from V1.7 to 1.8.
+Check with Stephen about transferring config files. Can we export from one version to another. e.g. from V1.7 to 1.8.
 
