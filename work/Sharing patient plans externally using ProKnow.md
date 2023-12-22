@@ -1,6 +1,6 @@
 
 Adapted from method suggested by Marieke Van Der Putten at Newcastle
- 
+
 - Export plan to ProKnow
 - Open plan in ProKnow
 - Click "actions" on RHS of screen
