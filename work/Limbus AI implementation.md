@@ -1,4 +1,3 @@
-# Limbus AI implementation
 
 Minimum specifications (email from Stephen Chalkly-Pereira ):
 

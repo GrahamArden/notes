@@ -1,4 +1,3 @@
-# Sharing patient plans exxternally using ProKnow
 
 Adapted from method suggested by Marieke Van Der Putten at Newcastle
  
