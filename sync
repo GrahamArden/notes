@@ -1,14 +1,19 @@
 #!/bin/bash
-
+# Check the status of the Git repository
 gstatus=`git status --porcelain`
 
+# If there are any changes or untracked files
 if [ ${#gstatus} -ne 0 ]
 then
-
+    # Add all changes and untracked files to the staging area
     git add --all
+
+    # Commit the changes with a message indicating the automated sync and the status of the changes
     git commit -m "Automated sync: $gstatus"
 
-	git pull --rebase
-    git push
+    # Pull any changes from the remote repository and rebase the current branch
+    git pull --rebase
 
+    # Push the changes to the remote repository
+    git push
 fi
