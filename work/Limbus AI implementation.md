@@ -1,4 +1,3 @@
-@limbus
 
 Minimum specifications (email from Stephen Chalkly-Pereira ):
 
