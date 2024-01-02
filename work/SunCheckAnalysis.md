@@ -1,3 +1,13 @@
+Log in, preferably using script from ARIA or using http://onc-sunjob1 if outscide VLAN.
+
+# PlanCheck
+
+Under "Custom Dosimetric Template" select "PlanCheck"
+
+Under "Physics" select the most appropriate Physics template e.g. SABR.
+
+
+
 Looking at PTV and Body gamma
 - Approve without comment for Level 1
 - Add comments for Level 2 pass and above
