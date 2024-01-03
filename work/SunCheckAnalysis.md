@@ -1,4 +1,4 @@
-Log in, preferably using script from ARIA or using http://onc-sunjob1 if outscide VLAN.
+Log in, preferably using script from ARIA or using http://onc-sunjob1 if outside VLAN.
 
 # PlanCheck
 
@@ -14,6 +14,13 @@ Looking at PTV and Body gamma
 - If fails at Level 2 involve an MPE
 - Leave the current metric on the level it passes at when producing report
 
+# DoseCheck
+
+Only interested in relevant PTV (Pass/Fail) and Body:
+
+![DoseCheck parameters](Pasted%20image%2020240103100707.png)
+
+If passes at Level 1 then can be approved, if Level 2 pass then add comment before approving. If fails at Level 2 must involve MPE.
 # Fraction 0
 
 Look at results and approve if passing:
