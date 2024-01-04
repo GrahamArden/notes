@@ -6,21 +6,17 @@ Under "Custom Dosimetric Template" select "PlanCheck"
 
 Under "Physics" select the most appropriate Physics template e.g. SABR.
 
+# DoseCheck
 
+Only interested in relevant PTV and Body:
 
+![Dosecheck criteria](Pasted%20image%2020240104120610.png)
 Looking at PTV and Body gamma
 - Approve without comment for Level 1
 - Add comments for Level 2 pass and above
 - If fails at Level 2 involve an MPE
 - Leave the current metric on the level it passes at when producing report
 
-# DoseCheck
-
-Only interested in relevant PTV and Body:
-
-
-
-If passes at Level 1 then can be approved, if Level 2 pass then add comment before approving. If fails at Level 2 must involve MPE.
 # Fraction 0
 
 Look at results and approve if passing:
