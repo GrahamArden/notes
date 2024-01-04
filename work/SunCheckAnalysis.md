@@ -16,9 +16,9 @@ Looking at PTV and Body gamma
 
 # DoseCheck
 
-Only interested in relevant PTV (Pass/Fail) and Body:
+Only interested in relevant PTV and Body:
 
-![DoseCheck parameters](Pasted%20image%2020240103100707.png)
+
 
 If passes at Level 1 then can be approved, if Level 2 pass then add comment before approving. If fails at Level 2 must involve MPE.
 # Fraction 0

@@ -6,7 +6,7 @@ Minimum specifications (email from Stephen Chalkly-Pereira ):
 Will be hosted on Compass servers:
 
 - Compass2019 for Version 1.7 (Clinical version)
-- Compass2021 for Version 1.8 (Testing version)
+- ONC-EDT09 for Version 1.8 (Testing version)
 
 Check with Stephen about transferring config files. Can we export from one version to another. e.g. from V1.7 to 1.8.
 
@@ -17,6 +17,7 @@ Tried to download current version 1.7.1 using link in email but blocked by firew
 
 Emailed Freddie again to request alternative download. Sent another link which was also blocked. Contacted IT who just used Chrome to download rather than Edge.  Sent email to OIS Team and asked them to copy the install files to the VLAN.
 
-Carl has arranged implementation meeting with team form Limbus on Thursday
+Carl has arranged implementation meeting with Liz from Limbus, Freddie and Stephen on Thursday
 
 Copy DICOM headers to 6 month project folder
+
