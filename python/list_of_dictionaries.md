@@ -50,3 +50,18 @@ Fractions: 20
 -----
 ```
 
+or, as it it used in the check_nhs_collections script: 
+
+```python
+        for definition in nationalProstateCollections[collection_name_prostate]:
+            if (prescribed_dose == definition['Dose'] and
+                fractions == definition['Fractions']
+                ):
+                pass
+            else:
+                print(collection_name_prostate,"\t",patient_item.mrn,"\t",
+                        plan.data["data"]["label"],
+                        prescribed_dose,"Gy/",
+                        fractions,"# ",
+                        "  ### Check collection ###")
+```
