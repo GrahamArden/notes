@@ -1,5 +1,9 @@
 This folder contains work-related notes
 
+### Monthly catch meetings
+
+[2024-01-05](2024-01-05.md)
+
 ### Machine QA
 
 
