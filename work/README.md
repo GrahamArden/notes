@@ -1,6 +1,6 @@
 This folder contains work-related notes
 
-### Monthly catch meetings
+### Monthly catch up meetings
 
 [2024-01-05](2024-01-05.md)
 
