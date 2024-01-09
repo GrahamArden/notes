@@ -17,4 +17,6 @@ At the moment, I use [Obsidium](https://help.obsidian.md/Home) as a note taker, 
 ### Other more important home stuff
 
 - [Personal](personal/README.md)
-- 
+
+ [up](README.md)
+[top](../README.md)
