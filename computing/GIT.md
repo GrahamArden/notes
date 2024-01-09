@@ -1,4 +1,4 @@
-Removing a file or folder from a GIT repository (i.e. stop it being tracked and remove it from github)
+#### Removing a file or folder from a GIT repository (i.e. stop it being tracked and remove it from github)
 
 **Locally Remove the Folder:**
 

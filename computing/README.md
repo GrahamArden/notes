@@ -1,2 +1,3 @@
-GIT
+[GIT tips etc](GIT.md)
+
 
