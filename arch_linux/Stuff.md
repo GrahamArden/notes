@@ -15,6 +15,5 @@ Things I need to install on [Arch Linux](https://archlinux.org/)
 - zsh
 - [oh-my-zsh](https://ohmyz.sh/)
 
-[up](../README.md)
 [up](README.md)
 [top](../README.md)
