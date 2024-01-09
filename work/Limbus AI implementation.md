@@ -13,7 +13,7 @@ Check with Stephen about transferring config files. Can we export from one versi
 Licence issued on 28/12/23 after AMG Medtech received order
 Tried to download current version 1.7.1 using link in email but blocked by firewall:
 
-![Download error](Pasted%20image%2020231229102529.png)
+![Download error](images/malicious.png)
 
 Emailed Freddie again to request alternative download. Sent another link which was also blocked. Contacted IT who just used Chrome to download rather than Edge.  Sent email to OIS Team and asked them to copy the install files to the VLAN.
 

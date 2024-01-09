@@ -10,7 +10,7 @@ Under "Physics" select the most appropriate Physics template e.g. SABR.
 
 Only interested in relevant PTV and Body:
 
-![Dosecheck criteria](images/plancheck_targets.png
+![Dosecheck criteria](images/plancheck_targets.png)
 )
 Looking at PTV and Body gamma
 - Approve without comment for Level 1
