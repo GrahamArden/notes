@@ -11,11 +11,6 @@ Will be hosted on Compass servers:
 Check with Stephen about transferring config files. Can we export from one version to another. e.g. from V1.7 to 1.8.
 
 Licence issued on 28/12/23 after AMG Medtech received order
-Tried to download current version 1.7.1 using link in email but blocked by firewall:
-
-![Download error](images/malicious.png)
-
-Emailed Freddie again to request alternative download. Sent another link which was also blocked. Contacted IT who just used Chrome to download rather than Edge.  Sent email to OIS Team and asked them to copy the install files to the VLAN.
 
 Carl has arranged implementation meeting with Liz from Limbus, Freddie and Stephen on Thursday
 
