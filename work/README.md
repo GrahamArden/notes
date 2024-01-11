@@ -24,5 +24,5 @@ Using [SunCheck](SunCheck%20F0%20setup.md) for patient specific QA
 [Limbus AI implementation](Limbus%20AI%20implementation.md)
 
 [ProKnow scripting](https://github.com/nhs-proknow)
-- [Notes from the meeting on 11/01/24](2024011_proknow)
+- [Notes from the meeting on 11/01/24](work/proknow/2024011_proknow.md)
 
