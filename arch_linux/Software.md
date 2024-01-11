@@ -4,7 +4,7 @@ Things I like to have installed on [Arch Linux](https://archlinux.org/)
 - [Awesome](https://awesomewm.org/) window manager
 - [Alacrity](https://wiki.archlinux.org/title/Alacritty), a terminal emulator
 - [Anaconda Python](https://www.anaconda.com/)
-- [Visual Studio Code (AUR)](https://aur.archlinux.org/packages/visual-studio-code-bin) which, surprisingly, has now become my favourite code editor, particularly since the demise of Atom.
+- [Visual Studio Code (AUR)](https://aur.archlinux.org/packages/visual-studio-code-bin) which, surprisingly, has now become my favourite code editor, particularly since the demise of [Atom](https://github.blog/2022-06-08-sunsetting-atom/).
 
 - Google Drive. 
 	- using [rclone](https://archlinux.org/packages/extra/x86_64/rclone/), 
