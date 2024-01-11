@@ -11,7 +11,7 @@ Things I need to install on [Arch Linux](https://archlinux.org/)
 	- [rclone/rclone: "rsync for cloud storage" (github.com)](https://github.com/rclone/rclone) 
 	- [How To Mount Google Drive Locally Using Rclone In Linux (ostechnix.com)](https://ostechnix.com/mount-google-drive-using-rclone-in-linux/)
 
-- I can also Use rclone for  [Dropbox](https://aur.archlinux.org/packages/dropbox)?
+- I can also Use rclone for  [Dropbox](https://aur.archlinux.org/packages/dropbox)
 - Thunderbird (as I still haven't found anything I prefer)
 - Firefox (harden using [arkenfox/user.js](https://github.com/arkenfox/user.js/))
 - [Obsidian](https://aur.archlinux.org/packages/obsidian-bin)
