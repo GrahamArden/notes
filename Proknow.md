@@ -1,1 +1,1 @@
-[ProKnow Learning Event notes](proknow/2024011_proknow.md)
+[ProKnow Learning Event notes](work/proknow/2024011_proknow.md)
