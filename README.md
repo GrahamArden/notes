@@ -7,12 +7,10 @@ At the moment, I use [Obsidium](https://help.obsidian.md/Home) as a note taker, 
 ### Work stuff
 
 - [Work related (Medical Physics/Radiotherapy)](work/README.md)
-- -  Machine QA
-  -  Treatment planning
+- -  [Machine QA](Machine%20QA.md)
+  -  [Treatment planning](Treatment%20Planning.md)
   -  [Developments](Developments.md)
-  - 
-
-
+  
 ### Computers
 
 - [General computery stuff](computing/README.md)
