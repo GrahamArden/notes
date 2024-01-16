@@ -13,7 +13,8 @@ My own [Breast planning notes](Breast%20planning%20notes.md) mainly picked up fr
 
 ### PSQA
 
-Using [SunCheck](SunCheck%20F0%20setup.md) for patient specific QA
+Setting up [SunCheck F0 setup](SunCheck%20F0%20setup.md) for patient specific QA
+...and the same for Suncheck Fn
 
 ### Proknow
 
