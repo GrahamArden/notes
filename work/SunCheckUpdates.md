@@ -9,12 +9,11 @@ Jennifer Hamilton (Medical Physicist, Sun Nuclear)
 - 3D calc is completed by re-assembly of incomplete beam logs
 - Will support deliberate interuptions (beam hold)
 
-### Point Dose measurements
-Configure
+### Ability to do Point Dose measurements
+Need to configure
 - PDD/TPR
 - Copy from Excel
-- -Scatter factors., Off axis factors
+- may also add Scatter factors, Off axis factors etc
 
 Other bugs fixed
-
 
