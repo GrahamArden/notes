@@ -19,15 +19,15 @@ Copy DICOM headers to 6 month project folder
 ### Sites to be implemented
 | Site | Template | Filter |
 | ---- | ---- | ---- |
-| H&N |  |  |
-| Brain |  |  |
-| SABR Lung & Bone/Node (Thorax) |  |  |
-| SABR Lung & Bone/Node (Pelvis) |  |  |
-| Pancreas |  |  |
-| Stomach |  |  |
-| Prostate & Nodes |  |  |
-| Anal Canal |  |  |
+| H&N | y |  |
+| Brain | y |  |
+| SABR Lung (Thorax) | y |  |
+| SABR Bone/Node (Pelvis) | y |  |
+| Pancreas | y |  |
+| Stomach | y |  |
+| Prostate & Nodes | y |  |
+| Anal Canal | y |  |
 | Rectum |  |  |
-| Gynae |  |  |
+| Gynae | y |  |
 | Breast (Likely delayed) |  |  |
 
