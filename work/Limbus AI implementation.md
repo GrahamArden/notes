@@ -16,3 +16,16 @@ Carl has arranged implementation meeting with Liz from Limbus, Freddie and Steph
 
 Copy DICOM headers to 6 month project folder
 
+### Sites to be implemented
+
+- H&N
+- Brain
+- SABR Lung & Bone/Node (Thorax)
+- SABR Lung & Bone/Node (Pelvis)
+- Pancreas
+- Stomach
+- Prostate & Nodes
+- Anal Canal
+- Rectum
+- Gynae
+- Breast (Likely delayed)
