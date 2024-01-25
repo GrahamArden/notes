@@ -4,10 +4,10 @@ This folder contains work-related notes
 
 [2024-01-05](2024-01-05.md)
 
-### Machine QA
+### [Machine QA](Machine%20QA.md)
 
 
-### Treatment planning
+### [Treatment planning](Treatment%20Planning.md)
 
 My own [Breast planning notes](Breast%20planning%20notes.md) mainly picked up from errors that people had pointed out when checking
 
