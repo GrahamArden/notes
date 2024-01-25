@@ -21,6 +21,4 @@ Things I like to have installed on [Arch Linux](https://archlinux.org/)
 - Some way of sorting out my [dotfiles](https://github.com/webpro/awesome-dotfiles) The intention is to keep these in a git repository
 
 [up](README.md)
-
-[up](README.md)
 [top](../README.md)
