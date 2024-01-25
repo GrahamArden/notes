@@ -15,6 +15,7 @@ At the moment, I use [Obsidium](https://help.obsidian.md/Home) as a note taker, 
 
 - [General computing stuff](computing/README.md)
 - [Arch Linux](arch_linux/README.md)
+- [MacOS](macos/README.md)
 - [Python](python/README.md)
 
 ### Other more important home stuff
