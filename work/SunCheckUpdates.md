@@ -17,3 +17,5 @@ Need to configure
 
 Other bugs fixed
 
+[up](README.md)
+[top](../README.md)

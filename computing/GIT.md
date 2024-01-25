@@ -19,4 +19,5 @@ git commit -m "Remove foldername from version control"
 
 ```bash
 git push origin branchname
-```
+```[up](README.md)
+[top](../README.md)

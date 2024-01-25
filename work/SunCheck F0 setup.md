@@ -14,3 +14,5 @@
 For analysis see: [SunCheck Analysis](SunCheckAnalysis.md)
 
 For setup of Fn see Fraction n setup
+[up](README.md)
+[top](../README.md)

@@ -4,4 +4,5 @@ My home network:
 | ---- | ---- | ---- | ---- |
 | 192.168.1.1 | alpha.trigfa.org.uk |  | File server |
 | 192.168.1. |  |  |  |
-... fill in the table above
+... fill in the table above[up](README.md)
+[top](../README.md)

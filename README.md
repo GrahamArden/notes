@@ -22,3 +22,5 @@ At the moment, I use [Obsidium](https://help.obsidian.md/Home) as a note taker, 
 - [Personal](personal/README.md)
 
 
+[up](README.md)
+[top](../README.md)

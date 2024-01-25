@@ -22,3 +22,5 @@ Things I like to have installed on [Arch Linux](https://archlinux.org/)
 
 [up](README.md)
 
+[up](README.md)
+[top](../README.md)

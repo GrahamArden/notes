@@ -48,4 +48,5 @@ example_function()
 
 ```
 
-In this example, if an exception occurs in the `try` block, the error message will be logged using an f-string. The value of `e` (the exception object) will be formatted into the string.
+In this example, if an exception occurs in the `try` block, the error message will be logged using an f-string. The value of `e` (the exception object) will be formatted into the string.[up](README.md)
+[top](../README.md)

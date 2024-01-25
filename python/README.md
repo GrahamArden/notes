@@ -9,3 +9,5 @@ We can use [named tuples](named_tuples.md) to define simple classes.
 
 [up](./README.md)
 [top](../README.md)
+[up](README.md)
+[top](../README.md)

@@ -19,4 +19,5 @@ In this example, `Person` is a named tuple type with fields 'name', 'age', and '
 
 Named tuples are immutable, meaning once you create an instance, you can't modify its values. If you need to change values, you would create a new named tuple with the updated values.
 
-They are particularly useful when you have simple data structures and want more clarity and readability in your code.
+They are particularly useful when you have simple data structures and want more clarity and readability in your code.[up](README.md)
+[top](../README.md)
