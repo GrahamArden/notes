@@ -23,4 +23,5 @@ At the moment, I use [Obsidium](https://help.obsidian.md/Home) as a note taker, 
 
 
 [up](README.md)
-[top](../README.md)
+
+This mess was brought to you by [Graham Arden](<graham.arden@trigfa.org.uk>) and by the numbers 3 and 65
