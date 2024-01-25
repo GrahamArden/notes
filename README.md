@@ -13,7 +13,7 @@ At the moment, I use [Obsidium](https://help.obsidian.md/Home) as a note taker, 
   
 ### Computers
 
-- [General computery stuff](computing/README.md)
+- [General computing stuff](computing/README.md)
 - [Arch Linux](arch_linux/README.md)
 - [Python](python/README.md)
 
