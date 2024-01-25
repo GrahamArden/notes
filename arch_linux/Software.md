@@ -9,7 +9,7 @@ Things I like to have installed on [Arch Linux](https://archlinux.org/)
 - Google Drive. 
 	- using [rclone](https://archlinux.org/packages/extra/x86_64/rclone/), particulary the [rclone mount](https://rclone.org/commands/rclone_mount/) command
 	- [rclone/rclone: "rsync for cloud storage" (github.com)](https://github.com/rclone/rclone) 
-	- [How To Mount Google Drive Locally Using Rclone In Linux (ostechnix.com)](https://ostechnix.com/mount-google-drive-using-rclone-in-linux/)
+	- [How To Mount Google Drive Locally Using Rclone In Linux (ostechnix.com)][def]
 
 - I can also [use rclone](https://rclone.org/dropbox/) for  [Dropbox](https://aur.archlinux.org/packages/dropbox)
 - .... and probably Micrososoft [OneDrive](https://rclone.org/onedrive/)
@@ -22,3 +22,6 @@ Things I like to have installed on [Arch Linux](https://archlinux.org/)
 
 [up](README.md)
 [top](../README.md)
+
+
+[def]: https://ostechnix.com/mount-google-drive-using-rclone-in-linux/
