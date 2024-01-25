@@ -1,3 +1,6 @@
+### A short python script to add the 'up' and 'top' links to the end of each page
+
+
 import os
 
 def add_extra_lines_to_files(folder_path, lines_to_add):
