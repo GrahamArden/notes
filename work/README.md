@@ -9,8 +9,8 @@ My own [Breast planning notes](Breast%20planning%20notes.md) mainly picked up fr
 
 ### PSQA
 
-Setting up [SunCheck F0 setup](SunCheck%20F0%20setup.md) for patient specific QA
-...and the same for [Suncheck Fn](SunCheck_Fraction_n_setup.md)
+Setting up [SunCheck F0 setup](SunCheck/SunCheck%20F0%20setup.md) for patient specific QA
+...and the same for [Suncheck Fn](SunCheck/SunCheck_Fraction_n_setup.md)
 ### Proknow
 
 [Sharing patient plans externally using ProKnow](Sharing%20patient%20plans%20externally%20using%20ProKnow.md)
