@@ -1,4 +1,5 @@
 ### In-Vivo Dosimetry Preperation (Fraction n setup)
+_Note: This task is now done the Duty Physicist for that day._
 
 Work instruction:  TV-PRC-3
 
