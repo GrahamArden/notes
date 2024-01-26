@@ -3,9 +3,9 @@ This folder contains work-related notes
 
 ### [Machine QA](Machine%20QA.md)
 
-### [Treatment planning](Treatment%20Planning.md)
+### [Treatment planning](treatment_planning/Treatment%20Planning.md)
 
-My own [Breast planning notes](Breast%20planning%20notes.md) mainly picked up from errors that people had pointed out when checking
+My own [Breast planning notes](treatment_planning/Breast%20planning%20notes.md) mainly picked up from errors that people had pointed out when checking
 
 ### PSQA
 
