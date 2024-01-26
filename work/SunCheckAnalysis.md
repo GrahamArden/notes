@@ -1,12 +1,12 @@
 Log in, preferably using script from ARIA or using http://onc-sunjob1 if outside VLAN.
 
-# PlanCheck
+### PlanCheck
 
 Under "Custom Dosimetric Template" select "PlanCheck"
 
 Under "Physics" select the most appropriate Physics template e.g. SABR.
 
-# DoseCheck
+### DoseCheck
 
 Only interested in relevant PTV and Body:
 
@@ -18,10 +18,17 @@ Looking at PTV and Body gamma
 - If fails at Level 2 involve an MPE
 - Leave the current metric on the level it passes at when producing report
 
-# Fraction 0
+### Fraction 0
 
 Look at results and approve if passing:
 ![F0 beams](images/f0_beams.png)
 
 Be careful over average pass. Tolerance for overall pass is based on average of all arcs. Check individual arcs also pass for Level 1. Can go on a "reasonable" mean for Level 2.[up](README.md)
+
+### Fraction n
+
+Look at results and approve if passing (_Make sure that the Level is set to the lowest that passes. This will normally be Level 1_)
+
+Fraction 1 should always be checked before Fraction 3 is delivered. A report will only be printed following the end of treatment.
+
 [top](../README.md)
