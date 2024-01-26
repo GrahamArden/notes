@@ -2,11 +2,11 @@ My home network is connected to the internet via fibre provided by [KCOM](https:
 
 Various services are provided on the network.  
 
-Note that the links below will only work if your in my house (Hey, who are you and what are you doing here!) or when connected via the VPN:
+Note that the links below will only work if your in my house (__Hey, who are you and what are you doing here?!__) or when connected via the VPN:
 
-| Host ip | name | OS | Used for... |
+| Host ip | Host name | OS | Used for... |
 | ---- | ---- | ---- | ---- |
-| 192.168.1.1 | [alpha.trigfa.org.uk](https://alpha.trigfa.org.uk) |  | [File server](https://alpha.lan.trigfa.org.uk:5001/) |
+| 192.168.1.1 | alpha.trigfa.org.uk |  | [File server](https://alpha.lan.trigfa.org.uk:5001/) |
 | 192.168.1.3 | pihole.lan.trigfa.org.uk |  | [pihole ad blocker](http://pihole.lan.trigfa.org.uk/admin), VPN server |
 |  |  |  |  |
 | 192.168.1.11 | lms.lan.trigfa.org.uk |  | [piCorePlayer](http://lms.lan.trigfa.org.uk),[LMS server](http://lms.lan.trigfa.org.uk:9000/) |
