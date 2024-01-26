@@ -1,4 +1,4 @@
-Things I like to have installed on [Arch Linux](https://archlinux.org/)
+Things I like to have installed on [Arch Linux](https://archlinux.org/) (most of which I also use on [macOS](../macos/README.md) and Windows (which I use for [work](../work/README.md))
 
 
 - A really [Awesome](https://awesomewm.org/) window manager (well, I like it).
