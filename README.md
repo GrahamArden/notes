@@ -7,25 +7,27 @@ At the moment, I use [Obsidium](https://help.obsidian.md/Home) as a note taker, 
 #### Work stuff
 
 [Work related (Medical Physics/Radiotherapy)](work/README.md)
--  [Machine QA](work/Machine%20QA.md)
--  [Treatment planning](work/Treatment%20Planning.md)
--  [Developments](work/Developments.md)
+
+- [Machine QA](work/Machine%20QA.md)
+- [Treatment planning](work/Treatment%20Planning.md)
+- [Developments](work/Developments.md)
   
 #### Computers
 
 [General computing stuff](computing/README.md)
 
 __Operating systems__
+
 - [Arch Linux](arch_linux/README.md)
 - [MacOS](macos/README.md)
 
 __Programming__
+
 - [Python](python/README.md)
 
 #### Other more important home stuff
 
 - [Personal](personal/README.md)
-
 
 [up](README.md)
 
