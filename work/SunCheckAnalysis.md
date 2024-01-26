@@ -23,7 +23,7 @@ Looking at PTV and Body gamma
 Look at results and approve if passing:
 ![F0 beams](images/f0_beams.png)
 
-Be careful over average pass. Tolerance for overall pass is based on average of all arcs. Check individual arcs also pass for Level 1. Can go on a "reasonable" mean for Level 2.[up](README.md)
+Be careful over average pass. Tolerance for overall pass is based on average of all arcs. Check individual arcs also pass for Level 1. Can go on a "reasonable" mean for Level 2.
 
 ### Fraction n
 
@@ -31,4 +31,5 @@ Look at results and approve if passing (_Make sure that the Level is set to the 
 
 Fraction 1 should always be checked before Fraction 3 is delivered. A report will only be printed following the end of treatment.
 
+[up](README.md)
 [top](../README.md)
