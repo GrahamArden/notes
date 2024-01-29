@@ -31,4 +31,4 @@ __Programming__
 
 [up](README.md)
 
-This mess was brought to you by [Graham Arden](<graham.arden@trigfa.org.uk>) and by the numbers 3 and 65
+This mess was brought to you by [Graham Arden](<mailto:graham.arden@trigfa.org.uk>) and by the numbers 3 and 65
