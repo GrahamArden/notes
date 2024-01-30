@@ -64,5 +64,7 @@ or, as it it used in the check_nhs_collections script:
                         prescribed_dose,"Gy/",
                         fractions,"# ",
                         "  ### Check collection ###")
-```[up](README.md)
+```
+
+[up](README.md)
 [top](../README.md)
