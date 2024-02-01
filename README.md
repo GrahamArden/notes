@@ -24,6 +24,7 @@ __Operating systems__
 __Programming__
 
 - [Python](python/README.md)
+- [Eclipse Scripting API](esapi/README.md)
 
 #### Other more important home stuff
 
