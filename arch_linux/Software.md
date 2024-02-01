@@ -4,7 +4,7 @@ Things I like to have installed on [Arch Linux](https://archlinux.org/) (most of
 - A really [Awesome](https://awesomewm.org/) window manager (well, I like it).
 - [Alacrity](https://wiki.archlinux.org/title/Alacritty), a terminal emulator
 - [Anaconda Python](https://www.anaconda.com/) for (almost) all your of scientific computing needs
-- [Visual Studio Code (AUR)](https://aur.archlinux.org/packages/visual-studio-code-bin) which, surprisingly, has now become my favourite code editor, particularly since the demise of [Atom](https://github.blog/2022-06-08-sunsetting-atom/).
+- [Visual Studio Code (AUR)](https://aur.archlinux.org/packages/visual-studio-code-bin) which, surprisingly, has now become my [favourite code editor](https://code.visualstudio.com/updates/v1_86), particularly since the demise of [Atom](https://github.blog/2022-06-08-sunsetting-atom/).
 
 - Google Drive. 
 	- using [rclone](https://archlinux.org/packages/extra/x86_64/rclone/), particulary the [rclone mount](https://rclone.org/commands/rclone_mount/) command
@@ -20,8 +20,7 @@ Things I like to have installed on [Arch Linux](https://archlinux.org/) (most of
 - zsh, and obviously, [oh-my-zsh](https://ohmyz.sh/)
 - Some way of sorting out my [dotfiles](https://github.com/webpro/awesome-dotfiles) The intention is to keep these in a git repository
 
+
 [up](README.md)
 [top](../README.md)
 
-
-[def]: https://ostechnix.com/mount-google-drive-using-rclone-in-linux/
