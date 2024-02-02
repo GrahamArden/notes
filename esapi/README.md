@@ -14,3 +14,8 @@ the Eclipse database
 - The Varian [developer](https://varianapis.github.io/) site
 - A useful online [book](https://varianapis.github.io/VarianApiBook.pdf) which is quoted from above.
 - [pyESAPI](https://github.com/VarianAPIs/PyESAPI): This is a Python front end to ESAPI. Note that this doesn't seem to be activley maintained
+
+
+---
+
+An example program written for Nilesh to extract data from ARIA is in \\ONC-PHYSICS\Radiotherapy Physics\ESAPI\Clinical Development\ExtractDVHs_NT\ (only visible from within the VLAN)
