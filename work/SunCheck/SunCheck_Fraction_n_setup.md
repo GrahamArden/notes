@@ -4,7 +4,7 @@ _Note: This task is now done the Duty Physicist for that day. We are currently o
 Work instruction:  TV-PRC-3
 
 Export the patient plan to Suncheck
-- _For "plan of the day" treatemnts (e.g. Bladder) export all the plans except the setup plan_
+- _For "plan of the day" treatments (e.g. Bladder) export all the plans except the setup plan_
 
 Schedule images (DC Integrated) for each fraction. Set panel to +50 cm (although this can be increased if necessary to avoid collision)
 - _For "plan of the day" treatments the radiographers will schedule the images when sceduling the plan_
