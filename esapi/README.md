@@ -17,7 +17,8 @@ the Eclipse database
 
 
 ---
-Obvioulsy, the first thing I need to do is [learn C#](https://learn.microsoft.com/en-us/training/paths/get-started-c-sharp-part-1/)
+Obvioulsy, the first thing I need to do is [learn a bit of C#](https://github.com/GrahamArden/csharp-learn)
+
 - [Part 1](https://learn.microsoft.com/en-us/training/paths/get-started-c-sharp-part-1/)
 - [Part 2](https://learn.microsoft.com/en-us/training/paths/get-started-c-sharp-part-2/)
 - [Part 3](https://learn.microsoft.com/en-us/training/paths/get-started-c-sharp-part-3/)
