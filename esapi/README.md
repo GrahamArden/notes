@@ -17,5 +17,9 @@ the Eclipse database
 
 
 ---
+Obvioulsy, the first thing I need to do is [learn C#](https://learn.microsoft.com/en-us/training/paths/get-started-c-sharp-part-1/)
+- [Part 1](https://learn.microsoft.com/en-us/training/paths/get-started-c-sharp-part-1/)
+- [Part 2](https://learn.microsoft.com/en-us/training/paths/get-started-c-sharp-part-2/)
+- [Part 3](https://learn.microsoft.com/en-us/training/paths/get-started-c-sharp-part-3/)
 
 An example program written for Nilesh to extract data from ARIA is in \\ONC-PHYSICS\Radiotherapy Physics\ESAPI\Clinical Development\ExtractDVHs_NT\ (only visible from within the VLAN)
