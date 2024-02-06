@@ -2,6 +2,7 @@
 
 - Copy clinical plan into QAPhysics course.
 - Rename by adding F0.
+- Remove any gating
 - Planning approve this plan. 
 - Export QA plan to SunCheck.
 - Set imager vertical to:
