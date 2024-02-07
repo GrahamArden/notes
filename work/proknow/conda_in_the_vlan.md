@@ -1,8 +1,8 @@
 ### Conda in the VLAN
 
-I am currently working on the use of [Proknow](proknow/README.md) and am a memnber of the [ProKnow scripting Task and Finish group](https://github.com/nhs-proknow)
+I am currently working on the use of [Proknow](../proknow/README.md) and am a memnber of the [ProKnow scripting Task and Finish group](https://github.com/nhs-proknow)
 
-As part of this we are looking at installing [miniconda](../python/conda.md) within the VLAN so that scripts can be run directly against both ARIA and Proknow
+As part of this we are looking at installing [miniconda](../../python/conda.md) within the VLAN so that scripts can be run directly against both ARIA and Proknow
 
 Miniconda was chosen, rather than using the full anaconda distribution as it has a much small footprint and we can install only the necessary packages
 
