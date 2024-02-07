@@ -8,7 +8,7 @@ Miniconda was chosen, rather than using the full anaconda distribution as it has
 
 In addition to the base libraries we would require
 
-- Juyter, both notebook and lab frontends
+- Jupyter, with both notebook and lab frontends
 - Spyder
 - The packages [listed here](https://github.com/nhs-proknow/proknow-scripting-tandf/blob/main/requirements.txt) which include the [Python ProKnow SDK](https://proknow-python.readthedocs.io/en/latest/)
 
