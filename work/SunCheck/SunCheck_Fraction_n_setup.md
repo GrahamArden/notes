@@ -14,7 +14,7 @@ Add an "In-Vivo 1st Fraction analysis" between the "New Start" and third "Daily 
 
 Add an "In-Vivo Final Report" task to the "Last Fraction"
 
-For analysis see [here](SunCheckAnalysis.md)
+For analysis see [here](./SunCheckAnalysis.md#fraction-n)
 
 [up](README.md)
 [top](../README.md)
