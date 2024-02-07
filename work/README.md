@@ -24,7 +24,8 @@ It's also useful for [sharing patient plans externally](proknow/Sharing%20patien
 
 ### Monthly catch up meetings
 
-[2024-01-05](catchup/2024-01-05.md)
+- [2024-02-07](catchup/2024-02-07.md)
+- [2024-01-05](catchup/2024-01-05.md)
 
 
 [up](README.md)
