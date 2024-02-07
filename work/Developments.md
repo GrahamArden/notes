@@ -19,6 +19,8 @@ Note that because the VLAN has no connection to the internet it would need to be
 - installing them using ```conda install /path-to-package/package-filename.tar.bz2/```
 - Alternatively it is possible to obtain all of the relevant install files, tar them into a single file and then extract using the command: ``` conda install /packages-path/packages-filename.tar```
 
+It may be possible to automate this, to a degree, using the solution given [here](https://stackoverflow.com/questions/77703119/how-to-install-multiple-conda-packages-offline-with-correct-dependency-resolutio?noredirect=1&lq=1)
+
 
 [up](README.md)
 [top](../README.md)
