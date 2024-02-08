@@ -7,10 +7,13 @@ This folder contains work-related notes
 
 My own [Breast planning notes](treatment_planning/Breast%20planning%20notes.md) mainly picked up from errors that people had pointed out when checking
 
-### PSQA
+### [PSQA](./psqa/README.md)
 
 Setting up [SunCheck F0 setup](SunCheck/SunCheck%20F0%20setup.md) for patient specific QA
 ...and the same for [Suncheck Fn](SunCheck/SunCheck_Fraction_n_setup.md)
+
+[Mobius3D](./psqa/mobius.md)
+
 ### Proknow
 
 Developments around scripting for [ProKnow](proknow/README.md) 
