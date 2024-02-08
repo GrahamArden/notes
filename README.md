@@ -14,7 +14,8 @@ The beauty of using [Markdown](https://github.com/adam-p/markdown-here/wiki/Mark
   
 #### Computers
 
-[General computing stuff](computing/README.md)
+- [General computing stuff](computing/README.md)
+- [Network](computing/network.md)
 
 __Operating systems__
 
