@@ -5,5 +5,9 @@
 - Select the appropriate plan from the right hand column and press "View Plan Check"
 - Results from this test will be displayed in the main window. Scroll down to 3D Gamma and select "Slice Viewer" to see the gamma displayed along with the vertical and horizontal dose profiles.
 - If appropriate, the settings for the plan may be changed by selecting the "cog" icon at the bottom of the left hand column
+- If changing to Level 2 a comment should be added in the notes at the bottom of the page. Examples are given below:
+- - ``` Level 2 pass. Split carriage and mixed energy plan, therefore appropriate to accept at Level 2. 3D gamma reviewed and acceptable```
+  - ``` Level 2 pass.  3D gamma reviewed and acceptable.  PTV passes criteria. Failing points are low and within the lung.```
 - Parameters for the 3D Gamma can then be changed (e.g. to 5%, 3mm for Level2) and then "Recalculate Plan Check" selected at the bottom of the page.
+- Failures at Level 2 should be referred to an MPE
 - Parameters for each level are given in TP-PRT-2
