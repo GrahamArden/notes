@@ -5,4 +5,5 @@
 - Select the appropriate plan from the right hand column and press "View Plan Check"
 - Results from this test will be displayed in the main window. Scroll down to 3D Gamma and select "Slice Viewer" to see the gamma displayed along with the vertical and horizontal dose profiles.
 - If appropriate, the settings for the plan may be changed by selecting the "cog" icon at the bottom of the left hand column
-- Values for the 3D Gamma can then be changed (e.g. to 5%, 3mm for Level2) and then "Recalculate Plan Check" selected at the bottom of the page.
+- Parameters for the 3D Gamma can then be changed (e.g. to 5%, 3mm for Level2) and then "Recalculate Plan Check" selected at the bottom of the page.
+- Parameters for each level are given in TP-PRT-2
