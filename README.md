@@ -6,30 +6,31 @@ The beauty of using [Markdown](https://github.com/adam-p/markdown-here/wiki/Mark
 
 #### Work stuff
 
-[Work related (Medical Physics/Radiotherapy)](work/README.md)
+[Work related (Medical Physics/Radiotherapy)](./work/README.md)
 
-- [Machine QA](work/Machine%20QA.md)
-- [Treatment planning](work/Treatment%20Planning.md)
-- [Developments](work/Developments.md)
+- [Machine QA](./work/Machine%20QA.md)
+- [PSQA](./work/psqa/README.md)
+- [Treatment planning](./work/Treatment%20Planning.md)
+- [Developments](./work/Developments.md)
   
 #### Computers
 
-- [General computing stuff](computing/README.md)
-- [Network](computing/network.md)
+- [General computing stuff](./computing/README.md)
+- [Network](./computing/network.md)
 
 __Programming__
 
-- [Python](python/README.md)
-- [Eclipse Scripting API](esapi/README.md)
+- [Python](./python/README.md)
+- [Eclipse Scripting API](./esapi/README.md)
 - 
 __Operating systems__
 
-- [Arch Linux](arch_linux/README.md)
-- [MacOS](macos/README.md)
+- [Arch Linux](./arch_linux/README.md)
+- [MacOS](./macos/README.md)
 
 #### Other _probably more important_ home stuff
 
-- [Personal](personal/README.md)
+- [Personal](./personal/README.md)
 
 [up](README.md)
 
