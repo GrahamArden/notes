@@ -17,17 +17,17 @@ The beauty of using [Markdown](https://github.com/adam-p/markdown-here/wiki/Mark
 - [General computing stuff](computing/README.md)
 - [Network](computing/network.md)
 
+__Programming__
+
+- [Python](python/README.md)
+- [Eclipse Scripting API](esapi/README.md)
+- 
 __Operating systems__
 
 - [Arch Linux](arch_linux/README.md)
 - [MacOS](macos/README.md)
 
-__Programming__
-
-- [Python](python/README.md)
-- [Eclipse Scripting API](esapi/README.md)
-
-#### Other more important home stuff
+#### Other _probably more important_ home stuff
 
 - [Personal](personal/README.md)
 
