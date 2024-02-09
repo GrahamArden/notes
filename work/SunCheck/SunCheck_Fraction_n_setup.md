@@ -14,6 +14,8 @@ Add an "In-Vivo 1st Fraction analysis" between the "New Start" and third "Daily 
 
 Add an "In-Vivo Final Report" task to the "Last Fraction"
 
+_Note: If a patient has more than 1 phase then all phases should be prepared as some PH1/2 patients don't have multiple care paths_
+
 For analysis see [here](./SunCheckAnalysis.md#fraction-n)
 
 [up](README.md)
