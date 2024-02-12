@@ -7,6 +7,8 @@ I have a [set of scripts](https://github.com/nhs-proknow/HullProknowCollectionSc
 
 The next step will be to look at [installing conda (probably miniconda in the VLAN](conda_in_the_vlan.md))
 
+I'm looking at some more [scripting developments](./scripting_developments.md)
+
 [ProKnow Learning Event notes](proknow/20240111_proknow.md)
 
 [up](README.md)
