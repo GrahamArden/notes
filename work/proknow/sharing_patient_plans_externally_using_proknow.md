@@ -1,5 +1,6 @@
-
-Adapted from method suggested by Marieke Van Der Putten at Newcastle
+### Sharing patient plans externally using ProKnow
+ 
+This is adapted from a method suggested by Marieke Van Der Putten at Newcastle
 
 - Export plan to ProKnow
 - Open plan in ProKnow
