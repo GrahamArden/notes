@@ -1,7 +1,7 @@
 
 ## Developments to ProKnow scripting
 
-This is just a place to keep ideas for development of Python/c# scripting for Proknow 
+This is just a place to keep ideas for development of Python/[c# scripting](../../esapi/README.md) for Proknow 
 
 ### Rewriting the scrips to allocate patients to collections
 
