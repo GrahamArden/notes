@@ -20,7 +20,7 @@ Setting up [SunCheck F0 setup](SunCheck/SunCheck%20F0%20setup.md) for patient sp
 
 Developments around scripting for [ProKnow](proknow/README.md) 
 
-It's also useful for [sharing patient plans externally](proknow/Sharing%20patient%20plans%20externally%20using%20ProKnow.md)
+It's also useful for [sharing patient plans externally](proknow/sharing_patient_plans_externally_using_proknow.md)
 
 ### Development
 
