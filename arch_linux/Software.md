@@ -4,6 +4,7 @@ Things I like to have installed on [Arch Linux](https://archlinux.org/) (most of
 - [Alacrity](https://wiki.archlinux.org/title/Alacritty), a terminal emulator
 - [Anaconda Python](https://www.anaconda.com/) for (almost) all your of scientific computing needs
 - [Visual Studio Code (AUR)](https://aur.archlinux.org/packages/visual-studio-code-bin) which, surprisingly, has now become my [favourite code editor](https://code.visualstudio.com/updates/v1_86), particularly since the demise of [Atom](https://github.blog/2022-06-08-sunsetting-atom/).
+  - It's also pretty good for working with [Jupyter](https://jupyter.org/)[ notebooks/lab](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter)
 
 - Google Drive.
   - using [rclone](https://archlinux.org/packages/extra/x86_64/rclone/), particulary the [rclone mount](https://rclone.org/commands/rclone_mount/) command
