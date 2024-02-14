@@ -15,7 +15,12 @@ Note that the links below will only work if your in my house (__Hey, who are you
 |  |  |  |  |
 
 
+
+I use [PIVPN](https://pivpn.io/) on one of the [Raspberry Pis](https://www.raspberrypi.com/) to provide ad blocking along with a VPN into my home network. 
+- A useful guide is available at: [Install PiVPN with Wireguard on a Raspberry Pi with PiHole | by Abhineet Gupta | Medium](https://medium.com/@timebarrier/install-pivpn-with-wireguard-on-a-raspberry-pi-with-pihole-19d95ba8d206)
+
 I'm having some problems with [Syncthing](https://syncthing.net/) at the moment. See [here](https://forum.syncthing.net/t/new-synology-dsm-7-syncthing-package-for-synology-nas/15702?page=2) for some possible answers.
+
 
 [up](README.md)
 [top](../README.md)
