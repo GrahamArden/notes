@@ -17,6 +17,7 @@ Things I like to have installed on [Arch Linux](https://archlinux.org/) (most of
 - ~~[Obsidian](https://aur.archlinux.org/packages/obsidian-bin) for an easy way to edit these files. I can keep the notes in a git repository and it runs on Windows (in work), my Macbook and under Arch Linux.~~ Well after struggling with Obsidian for a month, I now just edit the .md files in Visual Studio Code or on Github. Much easier.
 - [Thunar](https://wiki.archlinux.org/title/Thunar) A relatively fast, simple file manager
 - zsh, and obviously, [oh-my-zsh](https://ohmyz.sh/)
+  - I like using the [command line](https://jeroenjanssens.com/dsatcl/), particularly if I can use [oh-my-zsh](https://github.com/ohmyzsh/wiki/blob/main/Cheatsheet.md)
 - Some way of sorting out my [dotfiles](https://github.com/webpro/awesome-dotfiles) The intention is to keep these in a git repository
 
 [up](README.md)
