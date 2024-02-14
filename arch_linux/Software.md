@@ -12,7 +12,7 @@ Things I like to have installed on [Arch Linux](https://archlinux.org/) (most of
 
 - I can also [use rclone](https://rclone.org/dropbox/) for  [Dropbox](https://aur.archlinux.org/packages/dropbox)
 - .... and probably Micrososoft [OneDrive](https://rclone.org/onedrive/)
-- [Thunderbird](https://wiki.archlinux.org/title/Thunderbird) (as I still haven't found anything I prefer for email)
+- [Thunderbird](https://wiki.archlinux.org/title/Thunderbird) (I still haven't found anything I prefer for email, although it should be set to [use plain text](https://useplaintext.email/))
 - The web browser [Firefox](https://wiki.archlinux.org/title/Firefox) hardened using [arkenfox/user.js](https://github.com/arkenfox/user.js/))
 - ~~[Obsidian](https://aur.archlinux.org/packages/obsidian-bin) for an easy way to edit these files. I can keep the notes in a git repository and it runs on Windows (in work), my Macbook and under Arch Linux.~~ Well after struggling with Obsidian for a month, I now just edit the .md files in Visual Studio Code or on Github. Much easier.
 - [Thunar](https://wiki.archlinux.org/title/Thunar) A relatively fast, simple file manager
