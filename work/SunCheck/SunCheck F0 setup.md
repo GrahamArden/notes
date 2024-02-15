@@ -1,5 +1,7 @@
 ### SunCheck F0 Preperation
 
+_These tasks are undertaken by the physicist assigned to PSQA for the week_
+
 - Copy clinical plan into QAPhysics course.
 - Rename by adding F0.
 - Remove any gating
