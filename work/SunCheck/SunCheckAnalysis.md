@@ -31,12 +31,8 @@ Be careful over average pass. Tolerance for overall pass is based on average of 
 
 
 ### Fraction n
+see seprate [note](./fraction_n_analysis.md)
 
-Look at results and approve if passing (_Make sure that the Level is set to the lowest that passes. This will normally be Level 1_)
-
-Fraction 1 should always be checked before Fraction 3 is delivered. A report will only be printed following the end of treatment.
-
-If Level 1 fails (particularly on a single field), try changing threshold from 10% to 20% and recalculate. If then passes record as a Level 1 pass: The template may be cahnged in the future
 
 [up](README.md)
 [top](../README.md)
