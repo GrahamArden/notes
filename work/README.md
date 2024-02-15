@@ -5,7 +5,7 @@ This folder contains work-related notes
 
 Repeat [acceptance testing](./electrometer_acceptance.md) for the repaired electrometer
 
-### [Treatment planning](treatment_planning/Treatment%20Planning.md)
+### [Treatment planning](treatment_planning/README.md)
 
 My own [Breast planning notes](treatment_planning/Breast%20planning%20notes.md) mainly picked up from errors that people had pointed out when checking
 
