@@ -1,3 +1,6 @@
+### Computing
+Some [books](./books.md#computing) I've found particularly useful
+
 I have a [home network](./trigfa.md) which includes a number of servers (mostly using Raspberry Pi hardware)
 
 Given the choice, I prefer [Arch Linux](../arch_linux/README.md) as an operating system, but also currently use [macOS](../macos/README.md) on my laptop.
