@@ -31,7 +31,8 @@ __Operating systems__
 #### Other _probably more important_ home stuff
 
 - [Personal](./personal/README.md)
+- I like [books](./books/README.md)
 
 [up](README.md)
 
-This mess was brought to you by [Graham Arden](<mailto:graham.arden@trigfa.org.uk>) and by the numbers 3 and 65
+This message was brought to you by [Graham Arden](<mailto:graham.arden@trigfa.org.uk>) and by the numbers 3 and 65
