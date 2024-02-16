@@ -4,11 +4,15 @@ Both the full [anaconda distribution](https://www.anaconda.com/download) and [mi
 
 A full guide to using conda is available [here](https://docs.conda.io/projects/conda/en/stable/user-guide/tasks/manage-conda.html#)
 
+To update conda itself use:
+```
+conda update conda
+```
+
 To update all the packages currently installed use:
 
 ```
 conda update --all
-
 ```
 This will pull from all the channels currently defined in the .condarc file.
 
