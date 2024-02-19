@@ -1,4 +1,4 @@
-### SunCheck F0 Preperation
+### SunCheck F0 Preparation
 
 _These tasks are undertaken by the physicist assigned to PSQA for the week_
 
