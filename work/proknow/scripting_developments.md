@@ -10,6 +10,26 @@ The main problem with the original scripts was that they allocated _patients_ to
 ### Integrating ARIA and ProKnow
    - There is a _lot_ of information available in ARIA which is not transmitted to ProKnow. One example is the Prescription which, in our case contains information about the dose, fractionation and, for some sites, laterality.
    - This is accesible using [ESAPI scripting](../../esapi/README.md)
+   - Another option, suggested by Aditi, would be to do an SQL query on ARIA. It is possible to embed an SQL query within a Pandas command:
+
+``` python
+import pandas as pd
+import sqlite3  # You can use another database library if needed, like sqlalchemy
+
+# Create a connection to your database
+conn = sqlite3.connect('your_database.db')  # Replace 'your_database.db' with your actual database file
+
+# Write your SQL query
+sql_query = "SELECT * FROM your_table;"  # Replace 'your_table' with the name of your table
+
+# Execute the query and create a DataFrame
+df = pd.read_sql(sql_query, conn)
+
+# Close the connection
+conn.close()
+
+# Now you have a Pandas DataFrame 'df' containing the result of your SQL query
+```
 
 Possible steps:
 
