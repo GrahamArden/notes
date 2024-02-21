@@ -30,9 +30,13 @@ Look at results and approve if passing:
 
 Be careful over average pass. Tolerance for overall pass is based on average of all arcs. Check individual arcs also pass for Level 1. Can go on a "reasonable" mean for Level 2.
 
+### Saving plan report
+- Once the PlanCheck, DoseCheck and Fraction 0 results have been approved, produce a pdf of the patient plan report (note this need to be done within the VLAN)
+- Save in ARIA documents
+- Deactivate the patient plan on SunCheck
 
 ### Fraction n
-see seprate [note](./fraction_n_analysis.md)
+see seperate [note](./fraction_n_analysis.md)
 
 
 [up](README.md)
