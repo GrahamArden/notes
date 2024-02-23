@@ -1,4 +1,27 @@
-## Removing a file or folder from a GIT repository (i.e. stop it being tracked and remove it from github)
+### Creating a new branch and switching to it
+Create a New Branch:
+
+```bash
+git branch <branch_name>
+```
+Replace <branch_name> with the desired name for your new branch.
+
+Switch to the New Branch:
+
+```bash
+git checkout <branch_name>
+```
+This command switches your working directory to the newly created branch.
+
+Alternatively, you can use a single command to create a new branch and switch to it in one go:
+
+```bash
+git checkout -b <branch_name>
+```
+
+
+
+### Removing a file or folder from a GIT repository (i.e. stop it being tracked and remove it from github)
 
 - Locally Remove the Folder:
 
@@ -23,7 +46,7 @@ git push origin branchname
 
 
 
-## Using git subtree
+### Using git subtree
 
 Assuming you want to clone a specific directory called subdirectory from a GitHub repository into your existing Git repository, you can use the following command:
 
