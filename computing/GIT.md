@@ -18,8 +18,40 @@ Alternatively, you can use a single command to create a new branch and switch to
 ```bash
 git checkout -b <branch_name>
 ```
+### Deleting a local branch in GIT
 
 
+To delete a local branch in Git, you can use the following command:
+
+```bash
+git branch -d <branch_name>
+```
+Replace <branch_name> with the name of the branch you want to delete.
+
+If the branch has unmerged changes (i.e., changes that haven't been merged into another branch), Git will prevent you from deleting it with the -d option. In that case, you can force the deletion using the -D option:
+
+``` bash
+git branch -D <branch_name>
+```
+This will delete the specified branch from your local repository. Make sure you're certain you want to delete the branch, as this action cannot be undone
+
+### Deleting a branch from GitHub
+
+To delete a branch from GitHub, you can follow these steps:
+
+- Locate the Repository: Go to the GitHub repository where the branch exists.
+- Access the Branches Page:
+
+  - At the top of the repository, click on the "Branches" tab. This will show you a list of all branches in the repository.
+- Select the Branch:
+
+  - Find the branch you want to delete from the list of branches and click on it to navigate to its page.
+- Delete the Branch:
+
+  - On the branch's page, there should be a button labeled "Delete branch" or a trash can icon next to the branch name. Click on this button.
+- Confirmation:
+
+  - GitHub will ask you to confirm the deletion. Confirm that you want to delete the branch.
 
 ### Removing a file or folder from a GIT repository (i.e. stop it being tracked and remove it from github)
 
