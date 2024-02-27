@@ -1,5 +1,4 @@
 ### SunCheck Analysis (for PlanCheck, DoseCheck and Fraction 0)
-_These tasks are undertaken by the physicist assigned to PSQA for the week_
 
 Log in, preferably using script from ARIA or using http://onc-sunjob1 if outside VLAN.
 
