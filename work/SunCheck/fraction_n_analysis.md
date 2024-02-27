@@ -1,5 +1,4 @@
 ### Fraction n analysis
-_This task is carreid out by the Duty Physicist for the day_
 
 Look at results and approve if passing (_Make sure that the Level is set to the lowest that passes. This should normally be Level 1_)
 
