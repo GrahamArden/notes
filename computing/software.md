@@ -1,6 +1,6 @@
-Things I like to have installed on [Arch Linux](https://archlinux.org/) (most of which I also use on [macOS](../macos/README.md) and Windows (which I use for [work](../work/README.md))
+Things I like to have installed, whether I'm working on [Arch Linux](../arch_linux/README.md) , [macOS](../macos/README.md) or Windows (which I use for [work](../work/README.md))
 
-- A really [Awesome](https://awesomewm.org/) window manager (well, I like it).
+- A really [Awesome](https://awesomewm.org/) window manager (Obvioulsy this one is only for Linux).
 - [Alacrity](https://wiki.archlinux.org/title/Alacritty), a terminal emulator
 - [Anaconda Python](https://www.anaconda.com/) for (almost) all your of scientific computing needs
 - [Visual Studio Code (AUR)](https://aur.archlinux.org/packages/visual-studio-code-bin) which, surprisingly, has now become my [favourite code editor](https://code.visualstudio.com/updates/v1_86), particularly since the demise of [Atom](https://github.blog/2022-06-08-sunsetting-atom/).
