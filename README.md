@@ -17,6 +17,7 @@ The beauty of using [Markdown](https://github.com/adam-p/markdown-here/wiki/Mark
 
 - [General computing stuff](./computing/README.md)
 - [Network](./computing/network.md)
+- Some useful [software](./arch_linux/Software.md) (although this is filed under Arch Linux, most of it is also availbale on Mac or even Windows)
 
 __Programming__
 
