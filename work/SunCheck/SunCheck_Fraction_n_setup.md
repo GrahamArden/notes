@@ -1,5 +1,4 @@
 ### In-Vivo Dosimetry Preperation (Fraction n setup)
-_Note: This task is now done the Duty Physicist for that day. We are currently only doing Fraction n on Truebeam paients. If a patient has been scheduled on Halcyon, delete the "In-Vivo Dosimetry Preration" task_
 
 Work instruction:  TV-PRC-3
 
