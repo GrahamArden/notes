@@ -2,7 +2,7 @@
 
 This is a repository for keeping notes , both for personal and work use.  Sometimes, if I'm stuck for an answer, I use [this](https://chat.openai.com)
 
-The beauty of using [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) for notes is that I can edit the .md files in any text editor (or even on Github).
+The beauty of using [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) for notes is that I can edit the .md files in any text editor (or even on [Github](https://github.com/GrahamArden).
 
 #### Work stuff
 
@@ -34,6 +34,6 @@ __Operating systems__
 - [Personal](./personal/README.md)
 - I like [books](./books/README.md)
 
-[up](README.md)
+My GitHub [page](https://github.com/GrahamArden)
 
 This message was brought to you by [Graham Arden](<mailto:graham.arden@trigfa.org.uk>) and by the numbers 3 and 65
