@@ -1,5 +1,7 @@
 ### Computing
 
+Some of the [software](./software.md) I like to have installed.
+
 Some [books](../books/README.md#computing) I've found particularly useful
 
 I have a [home network](./trigfa.md) which includes a number of servers (mostly using Raspberry Pi hardware)
