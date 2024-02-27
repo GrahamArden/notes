@@ -9,6 +9,7 @@ Things I like to have installed, whether I'm working on [Arch Linux](../arch_lin
   - It's also pretty good for working with [Jupyter](https://jupyter.org/)[ notebooks/lab](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter)
 
 - I also rather like [NeoVim](https://neovim.io/) which works well in [tmux](https://github.com/tmux/tmux/wiki). It also now [works](https://github.com/github/copilot.vim) with [copilot](https://github.com/features/copilot)
+  - A useful getting started video is available [here](https://www.youtube.com/watch?v=zHTeCSVAFNY)
 
 
 - [Thunderbird](https://wiki.archlinux.org/title/Thunderbird) (I still haven't found anything I prefer for email, although it should be set to [use plain text](https://useplaintext.email/))
