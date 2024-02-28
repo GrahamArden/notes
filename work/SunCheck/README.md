@@ -1,6 +1,8 @@
 ### SunCheck
 
-_From 4/03/2024 all SunCheck tasks will be undertaken by the PQSA Physicist for the day. Further guidance is available in TP-CD-112_
+_From 4/03/2024 all SunCheck tasks will be undertaken by the PQSA Physicist for the day._
+
+_Further guidance is available in TP-CD-112_
 
 #### Fraction 0
 
