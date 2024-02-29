@@ -3,7 +3,7 @@
 Things I like to have installed, whether I'm working on [Arch Linux](../arch_linux/README.md) , [macOS](../macos/README.md) or Windows (which I use for [work](../work/README.md))
 
 - A really [Awesome](https://awesomewm.org/) window manager (Obvioulsy this one is only for Linux).
-- [Alacrity](https://github.com/alacritty/alacritty), a terminal emulator, see also the Arch wiki [here](https://wiki.archlinux.org/title/Alacritty)
+- [Alacrity](https://github.com/alacritty/alacritty), a terminal emulator, see also the Arch wiki [here](https://wiki.archlinux.org/title/Alacritty). I like to use the [GitHub Dark Dimmed](https://github.com/projekt0n/github-theme-contrib/blob/main/themes/alacritty/github_dark_dimmed.yml) theme.
 - [Anaconda Python](https://www.anaconda.com/) for (almost) all your of scientific computing needs
 - [Visual Studio Code](https://code.visualstudio.com/) [(AUR)](https://aur.archlinux.org/packages/visual-studio-code-bin) which, surprisingly, has now become my [favourite code editor](https://code.visualstudio.com/updates/v1_86), particularly since the demise of [Atom](https://github.blog/2022-06-08-sunsetting-atom/).
   - It's also pretty good for working with [Jupyter](https://jupyter.org/)[ notebooks/lab](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter)
