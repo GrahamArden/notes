@@ -9,7 +9,7 @@ The next step will be to look at [installing conda (probably miniconda in the VL
 
 I'm looking at some more [scripting developments](./scripting_developments.md)
 
-[ProKnow Learning Event notes](proknow/20240111_proknow.md)
+A the end of January 2024, NHS England held a ProKnow Learning Event. [Notes](proknow/20240111_proknow.md) are available.
 
 [up](README.md)
 [top](../README.md)
