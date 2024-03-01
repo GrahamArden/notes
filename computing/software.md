@@ -14,7 +14,7 @@ Things I like to have installed, whether I'm working on [Arch Linux](../arch_lin
 
 - [Thunderbird](https://wiki.archlinux.org/title/Thunderbird) (I still haven't found anything I prefer for email, although it should be set to [use plain text](https://useplaintext.email/))
 - The web browser [Firefox](https://wiki.archlinux.org/title/Firefox) hardened using [arkenfox/user.js](https://github.com/arkenfox/user.js/))
-- [Thunar](https://wiki.archlinux.org/title/Thunar) A relatively fast, simple file manager
+- On Linux, I use [Thunar](https://wiki.archlinux.org/title/Thunar) A relatively fast, simple file manager
 - zsh, and obviously, [oh-my-zsh](https://ohmyz.sh/)
   - I like using the [command line](https://jeroenjanssens.com/dsatcl/), particularly if I can use [oh-my-zsh](https://github.com/ohmyzsh/wiki/blob/main/Cheatsheet.md)
 - Some way of sorting out my [dotfiles](https://github.com/webpro/awesome-dotfiles) The intention is to keep these in a [git repository](https://github.com/GrahamArden/dotfiles), probably using [GNU Stow](https://www.gnu.org/software/stow/)
