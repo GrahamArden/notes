@@ -14,6 +14,8 @@ I use git for version control: [GIT tips etc](./GIT.md) including version contro
 
 Sometimes if I'm too lazy to think I use [this](https://chat.openai.com)
 
+[This](https://www.system-rescue.org/) has proved useful in the past.
+
 Useful [DNS](./DNS_cheatsheet.md) commands
 
 [up](README.md)
