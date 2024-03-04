@@ -7,6 +7,15 @@ This is just a place to keep ideas for development of Python/[c# scripting](../.
 
 The main problem with the original scripts was that they allocated _patients_ to collections ratherr that _dose_ objects. This means that the scorcards did not work.  These are currently being [rewritten](https://github.com/GrahamArden/Hull_tandf_scripts)
 
+### Modifying the [modules](https://github.com/nhs-proknow/proknow-scripting-tandf/tree/main/modules) to use Pandas dataframes in addition to csv files.
+
+The modules written by Liam use .csv files as a way of storing data. Using Pandas dataframes might be more useful in order to automate some of the processing
+
+The first step would be to modify the method in the class "NHSProknow" (which is contained in the module "nhs_collctions.py). This must be done whilst maintaining backwards compatability for those that want to use csv files:
+- modify "get_patients" (which currently extracts the patient data from a csv file or python list) to also extract data from a Pandas dataframe.
+- there is a "write_csv" method which writes a list of dicts, It might be worth adding a "write_pd" to do the same to a Pandas dataframe
+- check the other modules to ensure nothing breaks!
+
 ### Integrating ARIA and ProKnow
    - There is a _lot_ of information available in ARIA which is not transmitted to ProKnow. One example is the Prescription which, in our case contains information about the dose, fractionation and, for some sites, laterality.
    - This is accesible using [ESAPI scripting](../../esapi/README.md)
