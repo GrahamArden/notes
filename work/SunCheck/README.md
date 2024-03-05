@@ -16,5 +16,5 @@ _These tasks are undertaken by the physicist assigned to PSQA for the week, from
 
 _These tasks are undertaken by the Duty Physicist for the day, from 4/03/2024 they will do done by the PQSA Physicist for the day_
 
-- Setting up [Suncheck Fn](./SunCheck_Fraction_n_setup.md)
+- In-Vivo Dosimetry Preperation [(Fraction n setup)](./SunCheck_Fraction_n_setup.md)
 - Analysis for [Fraction n](./fraction_n_analysis.md)
