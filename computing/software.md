@@ -16,11 +16,12 @@ Things I like to have installed, whether I'm working on [Arch Linux](../arch_lin
 
 ### Coding
 - [Anaconda Python](https://www.anaconda.com/) for (almost) all your of scientific computing needs
-- [Visual Studio Code](https://code.visualstudio.com/) [(AUR)](https://aur.archlinux.org/packages/visual-studio-code-bin) which, surprisingly, has now become my [favourite code editor](https://code.visualstudio.com/updates/v1_86), particularly since the demise of [Atom](https://github.blog/2022-06-08-sunsetting-atom/).
+- I really like [NeoVim](https://neovim.io/) which works well in [tmux](https://github.com/tmux/tmux/wiki) on both Linux and Mac. It also now [works](https://github.com/github/copilot.vim) with [copilot](https://github.com/features/copilot)
+  - A useful series of videos on setting up NeoVim is available [here](https://www.youtube.com/watch?v=zHTeCSVAFNY)
+
+- On my Windows machine in work I use [Visual Studio Code](https://code.visualstudio.com/) [(AUR)](https://aur.archlinux.org/packages/visual-studio-code-bin) which, surprisingly, has now become my [second favourite code editor](https://code.visualstudio.com/updates/v1_86)
   - It's also pretty good for working with [Jupyter](https://jupyter.org/)[ notebooks/lab](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter)
 
-- I also rather like [NeoVim](https://neovim.io/) which works well in [tmux](https://github.com/tmux/tmux/wiki). It also now [works](https://github.com/github/copilot.vim) with [copilot](https://github.com/features/copilot)
-  - A useful getting started video is available [here](https://www.youtube.com/watch?v=zHTeCSVAFNY)
 
 
 
