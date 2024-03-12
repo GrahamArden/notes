@@ -1,7 +1,8 @@
 ### Treatment planning
 
-#### Usefule documents
-TP-PRT-1  Treatment planning protocols
+#### Useful documents
+TP-PRT-1: Treatment planning protocols
+TP-DPS-7: Treatment planning algorithms
 
 [Breast planning](Breast%20planning%20notes.md)
 
