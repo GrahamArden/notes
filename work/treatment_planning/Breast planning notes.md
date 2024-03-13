@@ -13,6 +13,7 @@
 - Delete reference point location
 - Delete MLCs from setup fields
 - Time: set to 2.00 mins for breast fields, 1.00 min for SCF/Ax field
+- Currently we are NOT using jaw tracking for breast patients but this may change in th future
 
 #### Split carriage for large fields (X>14cm)
 
