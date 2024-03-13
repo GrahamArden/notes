@@ -15,7 +15,7 @@ Things I like to have installed, whether I'm working on [Arch Linux](../arch_lin
   - See this useful [YouTube video](https://www.youtube.com/watch?v=y6XCebnB9gs)
 
 ### Coding
-- [Anaconda Python](https://www.anaconda.com/) for (almost) all your of scientific computing needs
+- [Anaconda Python](https://www.anaconda.com/) for (almost) all your of scientific computing needs on Windows and Mac. Note that it is *not* recommended to install Anaconda on Arch as it can break things . For Arch I just install the packages I need using pacman (or pip if they are not available in the repositories)
 - I really like [NeoVim](https://neovim.io/) which works well in [tmux](https://github.com/tmux/tmux/wiki) on both Linux and Mac. It also now [works](https://github.com/github/copilot.vim) with [copilot](https://github.com/features/copilot)
   - A useful series of videos on setting up NeoVim is available [here](https://www.youtube.com/watch?v=zHTeCSVAFNY)
 
