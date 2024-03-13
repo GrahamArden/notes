@@ -22,7 +22,7 @@ Things I like to have installed, whether I'm working on [Arch Linux](../arch_lin
 - On my Windows machine in work I use [Visual Studio Code](https://code.visualstudio.com/) [(AUR)](https://aur.archlinux.org/packages/visual-studio-code-bin) which, surprisingly, has now become my [second favourite code editor](https://code.visualstudio.com/updates/v1_86)
   - It's also pretty good for working with [Jupyter](https://jupyter.org/)[ notebooks/lab](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter)
 
-
+- For virtual Python environments I am using [pipenv](https://pipenv.pypa.io/en/latest/) which combines both pip (for package managemnt) and venv (for virtual environments). This is aslo recommennded on Arch as it ensures that virtual environments are used.
 
 
 
