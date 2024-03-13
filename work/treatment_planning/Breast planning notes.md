@@ -24,6 +24,7 @@ An X field size of 14cm will require the use of split carriage
 We no longer need to split the anterior and posterior partial fields 
 
 Check that the MLC motion looks reasonable. It is known to occasionally produce weird leaf motions.
+
 When the plan is reviewed the clinician will get the following message:
 !["split field warning message"](../images/split_field.png)
 
