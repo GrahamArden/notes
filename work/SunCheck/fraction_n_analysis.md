@@ -1,5 +1,7 @@
 ### Fraction n analysis
 
+_See TP-PRT-2 Patient Specific Quality Control Protocol_
+
 Look at results and approve if passing (_Make sure that the Level is set to the lowest that passes. This should normally be Level 1_)
 
 Fraction 1 should always be checked before Fraction 3 is delivered. A report will only be printed following the end of treatment.
