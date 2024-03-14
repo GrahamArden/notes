@@ -9,5 +9,8 @@
 - If changing to Level 2 a comment should be added in the notes at the bottom of the page. Examples are given below:
 - - ``` Level 2 pass. Split carriage and mixed energy plan, therefore appropriate to accept at Level 2. 3D gamma reviewed and acceptable```
   - ``` Level 2 pass.  3D gamma reviewed and acceptable.  PTV passes criteria. Failing points are low and within the lung.```
+- Once the plan has been recalculated go into External Beam Planning and run the "Mobius" script to produce a short summary report.
+- Import into "Documents" and, assuming a pass at Level 2, approve the report.
+- Select the appropriate PTVs
 - Failures at Level 2 should be referred to an MPE
 - Parameters for each level are given in TP-PRT-2
