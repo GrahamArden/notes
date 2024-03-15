@@ -5,7 +5,7 @@ Things I like to have installed, whether I'm working on [Arch Linux](../arch_lin
 - The web browser [Firefox](https://wiki.archlinux.org/title/Firefox) hardened using [arkenfox/user.js](https://github.com/arkenfox/user.js/))
 - [Thunderbird](https://wiki.archlinux.org/title/Thunderbird) (I still haven't found anything I prefer for email, although it should be set to [use plain text](https://useplaintext.email/))
   
-- A really [Awesome](https://awesomewm.org/) window manager (Obvioulsy this one is only for Linux).
+- A really [Awesome](https://awesomewm.org/) window manager (Obvioulsy this one is only for Linux), although I am now thinking of changing to [QTile](https://qtile.org/) partly because it's written in [my favourite programming language](https://www.python.org)
 - [Alacrity](https://github.com/alacritty/alacritty), a terminal emulator, see also the Arch wiki [here](https://wiki.archlinux.org/title/Alacritty). I like to use the [GitHub Dark Dimmed](https://github.com/projekt0n/github-theme-contrib/blob/main/themes/alacritty/github_dark_dimmed.yml) theme.
 
 - On Linux, I use [Thunar](https://wiki.archlinux.org/title/Thunar) A relatively fast, simple file manager
