@@ -6,5 +6,7 @@
 
 [Breast planning](Breast%20planning%20notes.md)
 
+[Planning Algorithms](algorithms.md)
+
 [up](README.md)
 [top](../README.md)
