@@ -27,7 +27,7 @@ Things I like to have installed, whether I'm working on [Arch Linux](../arch_lin
 
 ### Presentations
 
-I'm curretnly looking at [Quarto](https://quarto.org) particularly for using notebooks for [presentations](https://quarto.org/docs/presentations/) 
+- I'm currently looking at [Quarto](https://quarto.org) particularly for using notebooks for [presentations](https://quarto.org/docs/presentations/) 
 
 
 
