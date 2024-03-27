@@ -28,7 +28,7 @@ Things I like to have installed, whether I'm working on [Arch Linux](../arch_lin
 ### Presentations
 
 - I'm currently looking at [Quarto](https://quarto.org) particularly for using notebooks for [presentations](https://quarto.org/docs/presentations/) 
-
+- Plugins are available for [Neovim](https://quarto.org/docs/get-started/hello/neovim.html), [Jupyter](https://quarto.org/docs/get-started/hello/jupyter.html) and [Visual Studio Code](https://quarto.org/docs/get-started/hello/vscode.html)
 
 
 ### File sharing
