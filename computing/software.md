@@ -25,7 +25,9 @@ Things I like to have installed, whether I'm working on [Arch Linux](../arch_lin
 
 - For virtual Python environments I am using [pipenv](https://pipenv.pypa.io/en/latest/) which combines both pip (for package managemnt) and venv (for virtual environments). ~~This is aslo recommennded on Arch as it ensures that virtual environments are used.~~ Unfortunately this no longer seems to work on Arch Linux.
 
+### Presentations
 
+I'm curretnly looking at [Quarto](https://quarto.org) particularly for using notebooks for [presentations](https://quarto.org/docs/presentations/) 
 
 
 
