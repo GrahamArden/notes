@@ -6,13 +6,13 @@ Minimum specifications (email from Stephen Chalkly-Pereira ):
 Will be hosted on Compass servers:
 
 - Compass2019 for Version 1.7 (Clinical version)
-- ONC-EDT09 for Version 1.8 (Testing version)
+- ONC-EDT10 for Version 1.8 (Testing version)
 
-Check with Stephen about transferring config files. Can we export from one version to another. e.g. from V1.7 to 1.8.
+~~Check with Stephen about transferring config files. Can we export from one version to another. e.g. from V1.7 to 1.8.~~ Yes, it is possible to transfer config files form Version 1.7 to Version 1.8
 
 Licence issued on 28/12/23 after AMG Medtech received order
 
-Carl has arranged implementation meeting with Liz from Limbus, Freddie and Stephen on Thursday
+~~Carl has arranged implementation meeting with Liz from Limbus, Freddie and Stephen on Thursday~~
 
 Copy DICOM headers to 6 month project folder
 
