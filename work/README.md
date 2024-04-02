@@ -3,6 +3,8 @@ This folder contains work-related notes
 
 ### [Machine QA](Machine%20QA.md)
 
+[Linac calibration](linac_recalibration.md)
+
 Repeat [acceptance testing](./electrometer_acceptance.md) for the repaired electrometer
 
 ### [Treatment planning](treatment_planning/README.md)
