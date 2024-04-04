@@ -14,5 +14,7 @@ The next step will be to look at [installing conda (probably miniconda in the VL
 
 A the end of January 2024, NHS England held a ProKnow Learning Event. [Notes](proknow/20240111_proknow.md) are available.
 
+Notes from the [April Teams meeting](202040404_meeting.md)
+
 [up](README.md)
 [top](../README.md)
