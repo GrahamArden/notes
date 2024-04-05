@@ -2,6 +2,8 @@
 
 Work instruction:  TV-PRC-3
 
+_Note: In-vivo dosimetry is not commisioned for Halcyon plans_
+
 Export the patient plan to Suncheck
 - _For "plan of the day" treatments (e.g. Bladder) export all the plans except the setup plan_
 
