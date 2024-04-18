@@ -10,4 +10,8 @@
   - Pacemaker: 2.0 Gy
   - Implantable Cardiac Defibrilator (ICD): 0.5 Gy
 
+- Where possible any device should be CT scanned but not placed directly in the radiotherapy treatment field
+- Every effort should be made to limit the cumulative dose to the device. This may be by additional shielding.
+- If the leads for the device can be seen, every effort should be made to keep the leads out of the treatment field and doses limited.
+
 - For electron profiles see commisioning report AST-COM-91 (PDD and Profile data with Dynamic Graphs.xlsx)
