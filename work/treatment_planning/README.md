@@ -8,5 +8,7 @@
 
 [Planning Algorithms](algorithms.md)
 
+[Pacemekers](pacemakers.md)
+
 [up](README.md)
 [top](../README.md)
