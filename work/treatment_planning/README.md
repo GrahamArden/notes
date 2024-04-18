@@ -8,7 +8,7 @@
 
 [Planning Algorithms](algorithms.md)
 
-[Pacemekers](pacemakers.md)
+[Cardiac Implanted Electronic Devices (Pacemakers)](pacemakers.md)
 
 [up](README.md)
 [top](../README.md)
