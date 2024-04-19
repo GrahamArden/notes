@@ -1,5 +1,7 @@
 This folder contains work-related notes
 
+Useful [phone](phone.md) numbers
+
 
 ### [Machine QA](Machine%20QA.md)
 
