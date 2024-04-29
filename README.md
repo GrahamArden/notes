@@ -11,7 +11,7 @@ The beauty of using [Markdown](https://github.com/adam-p/markdown-here/wiki/Mark
 - [Machine QA](./work/Machine%20QA.md)
 - [PSQA](./work/psqa/README.md)
 - [Treatment planning](./work/treatment_planning/README.md)
-- [Developments](./work/Developments.md)
+- [Developments](./work/developments/README.md)
 - [Phone numbers](./work/phone.md)
   
 #### Computers
