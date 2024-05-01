@@ -6,6 +6,8 @@
 - TP-GD-92  Planning Breast IMRT
 - TP-CP-1  Breast clinical protocol
 - TP-CP-3  SCF/AX clinical protocol
+- TP-GD-70 Guidance for extending an Eclipse studyset
+- TP-GD-7 Guidance for patients with a tissue expander in-situ 
 
 
 #### Things to remember
