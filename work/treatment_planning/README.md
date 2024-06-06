@@ -10,5 +10,7 @@
 
 [Cardiac Implanted Electronic Devices (Pacemakers)](pacemakers.md)
 
+[Calculations for superficial treatment (XStrahl)](superficial_calcs.md)
+
 [up](README.md)
 [top](../README.md)
