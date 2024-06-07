@@ -4,6 +4,8 @@ I like [Python](https://www.python.org) and I use the Python scientific distribu
 
 Anaconda (and it's trimmed down version [miniconda](https://docs.anaconda.com/free/miniconda/)) has a useful command line interface using the command [conda](conda.md).
 
+When developing, it is useful to do so in a [virtual environment](virtual_environments.md)
+
 #### This is a list of useful hints (many of them nicked from ChatGPT):
 
 - How to use [f-strings](f-strings.md) to make print/error statements easier to read.
