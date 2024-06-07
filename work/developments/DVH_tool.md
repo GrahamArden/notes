@@ -12,7 +12,7 @@ python -m venv venv
 ```
 
 - Activate the virtual environment
-- 
+
 ```bash
 venv\Scripts\activate
 ```
