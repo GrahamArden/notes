@@ -9,7 +9,7 @@ As part of this we are looking at installing [miniconda within the VLAN](../prok
 [Compare SABR plans](./SABR_comparison/README.md) after increasing maximum dose to 140% of prescribed using ProKnow
 
 
-Dave and Marcus at Leeds are developing a [tool](./DVH_tool.md) to compare DVH dta across the ODN
+Dave and Marcus at Leeds are developing a [tool](./DVH_tool.md) to compare DVH data across the ODN
 
 
 ### Dosimetry
