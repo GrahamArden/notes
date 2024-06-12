@@ -1,4 +1,4 @@
-### Installing the ODN ProKnow Toolkit
+### Installing the YHODN ProKnow Toolkit
 
 - Downlaod the DVH tool (I have a [fork of the repository here](https://github.com/GrahamArden/YHODN-ProKnow-Toolkit))
 - Extract into a suitable directory
