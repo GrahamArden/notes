@@ -4,7 +4,6 @@
 - Extract into a suitable directory
 - Make a copy of the T&F group repository in the `prowknow_scripting_tandf` directory
 - Open a terminal, navigate to the repository and to the `DVH_tool` subdirectory
-
 - Create a virtual environmet to run the tool in (it does requrie a number of non standard libraries)
 
 ```bash
@@ -22,10 +21,15 @@ venv\Scripts\activate
 ```bash
 python -m pip install -r requirements.txt
 ```
+- Edit the config file: `Configs/DHH_tool_config.toml` to give the location for your `credentials.json` file
+- Create folders for `logs` and `Output` folders. Note the capitalisation of "Output"
 - Run streamlit with the `stremlit_dvh_tool.py` script
 ```bash
 streamlit run streamlit_dvh_tool.py
 ```
+- The tool will run, but give an error due to the use of nested double quotes. Edit the appropriate file `streamlit_dvh_tool.py`
+- Reload the streamlit page
+- There will then be another error due to not being able to find the nhs_proknow modules. Correct this and reload.
 - To deactivate the virtual environment and return to the base distribution run:
 ```bash
 deactivate
