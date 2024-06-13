@@ -1,5 +1,6 @@
 ### Using Python Virtual Environments 
 
+- Navigate to the folder containing your python code
 - Create a virtual environment in the directory ```.venv```
 
 ```bash
@@ -12,7 +13,7 @@ python -m venv .venv
 .venv\Scripts\activate
 ```
 
-- Change to the DVH_tools subdirectory and run ```pip install``` against the requirements file
+- If the source code folder contains a `requirements.txt` file, run ```pip install``` against the requirements file
 
 ```bash
 python -m pip install -r requirements.txt
