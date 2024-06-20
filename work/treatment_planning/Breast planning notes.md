@@ -19,8 +19,8 @@
 - Currently we are NOT using jaw tracking for breast patients but this may change in th future
 
 - For left sided patients scanned in breath hold for DIBH:
- - Medial TSD is measured on the free breath (FB) scan
- - Lateral and medial borders are measured on the breath hold (BH) scan.
+  - Medial TSD is measured on the free breath (FB) scan
+  - Lateral and medial borders are measured on the breath hold (BH) scan.
 
 
 #### Split carriage for large fields (X>14cm)
