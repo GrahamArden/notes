@@ -4,6 +4,7 @@
 - TP-PRD-3: Treatment planning process (kV or MV)
 - TP-PRT-1: Treatment planning protocols
 - TP-DPS-7: Treatment planning algorithms
+- TP-GD-59: Patient orientation guidance
 
 [Breast planning](Breast%20planning%20notes.md)
 
