@@ -1,6 +1,7 @@
 ### Treatment planning
 
 #### Useful documents
+- TP-PRD-3: Treatment planning process (kV or MV)
 - TP-PRT-1: Treatment planning protocols
 - TP-DPS-7: Treatment planning algorithms
 
