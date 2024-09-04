@@ -10,7 +10,7 @@ Given the choice, I prefer [Arch Linux](../arch_linux/README.md) as an operating
 
 I like to use the [command line](./command_line.md) to get things done efficiently.
 
-I use git for version control: [GIT tips etc](./GIT.md) including version control of this document
+I use [git](https://github.com/GrahamArden) for version control: [GIT tips etc](./GIT.md) including version control of this document
 
 Sometimes if I'm too lazy to think I use [this](https://chat.openai.com)
 
