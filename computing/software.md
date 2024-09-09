@@ -42,5 +42,8 @@ Things I like to have installed, whether I'm working on [Arch Linux](../arch_lin
 - I can also [use rclone](https://rclone.org/dropbox/) for  [Dropbox](https://aur.archlinux.org/packages/dropbox)
 - .... and probably Micrososoft [OneDrive](https://rclone.org/onedrive/)
 
+- [Syncthing](https://docs.syncthing.net/intro/getting-started.html)
+  - I use Syncthing for storing anything I'd like to keep a bit more secure as I don't have to put trust in Google. It runs on Linux, Mac and theres now a reasonably good Android implementation.
+
 [up](README.md)
 [top](../README.md)
