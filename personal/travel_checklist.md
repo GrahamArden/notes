@@ -4,29 +4,31 @@
 
 |Item                                 |        Checked      |
 |-------------------------------------|--------------|
-|Passports                            | |
-|EHIC/GHIC health card                |              |
-|Driving Licence                      |           |
-|Printed itinerary (flights, hotel)   | |
+|Passports                            |
+|EHIC/GHIC health card                |
+|Driving Licence                      |
+|Printed itinerary (flights, hotel)   |
 
 #### Stored documents
 
 |Item                                 |        Checked      |
 |-------------------------------------|--------------|
-|Copy of passports                    | |
-|Copy of EHIC/GHIC card               | |
-|Copy of driving licence              | |
-|Boarding cards   | |
+|Copy of passports                    |
+|Copy of EHIC/GHIC card               |
+|Copy of driving licence              |
+|Boarding cards|
 
 #### Tech
 
 |Item                                 |        Checked      |
 |-------------------------------------|--------------|
-|Mobile phone| |
+|Mobile phone|
 |Mobile phone (Melissa)
-|Earbuds (2 pairs)| |
-|Macbook                   | |
-|Power supply and mains lead| |
-|Euro mains adaptor| |
-|USB cables            | |
-|USB memory sticks  | |
+|Power bank| 
+|Earbuds (2 pairs)|
+|Macbook                   |
+|Mouse and USB-C adaptor |
+|Power supply and mains lead|
+|Euro mains adaptor|
+|USB cables (USB-C and micro USB)|
+|USB memory sticks|
