@@ -8,9 +8,7 @@
 |EHIC/GHIC health card                |
 |Driving Licence                      |
 |Printed itinerary (flights, hotel)   |
-
 #### Stored documents
-
 |Item                                 |        Checked      |
 |-------------------------------------|--------------|
 |Copy of passports                    |
