@@ -5,6 +5,7 @@
 - TP-PRT-1: Treatment planning protocols
 - TP-DPS-7: Treatment planning algorithms
 - TP-GD-59: Patient orientation guidance
+- TP-GD-30: Isocentre selection
 
 [Breast planning](Breast%20planning%20notes.md)
 
