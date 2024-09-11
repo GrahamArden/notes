@@ -32,6 +32,9 @@ Things I like to have installed, whether I'm working on [Arch Linux](../arch_lin
 - I'm currently looking at [Quarto](https://quarto.org) particularly for using notebooks for [presentations](https://quarto.org/docs/presentations/) 
 - Plugins are available for [Neovim](https://quarto.org/docs/get-started/hello/neovim.html), [Jupyter](https://quarto.org/docs/get-started/hello/jupyter.html) and [Visual Studio Code](https://quarto.org/docs/get-started/hello/vscode.html)
 
+### Photography
+- Organise my photos using [Shotwell](https://en.wikipedia.org/wiki/Shotwell_(software))
+- [Sync](https://aur.archlinux.org/packages/gphotos-sync) from [Google Photos](https://photos.google.com/)
 
 ### File sharing
 - Google Drive.
