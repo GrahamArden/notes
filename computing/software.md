@@ -36,6 +36,9 @@ Things I like to have installed, whether I'm working on [Arch Linux](../arch_lin
 - Organise my photos using [Shotwell](https://en.wikipedia.org/wiki/Shotwell_(software))
 - [Sync](https://aur.archlinux.org/packages/gphotos-sync) from [Google Photos](https://photos.google.com/)
 
+### Music
+- I keep my music library organised using [beets](https://beets.io/)
+
 ### File sharing
 - Google Drive.
   - using [rclone](https://archlinux.org/packages/extra/x86_64/rclone/), particulary the [rclone mount](https://rclone.org/commands/rclone_mount/) command
