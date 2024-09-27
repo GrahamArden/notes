@@ -24,6 +24,7 @@
 |Mobile phone (Melissa)
 |Power bank| 
 |Earbuds (2 pairs)|
+|Bluetooth speaker |
 |Macbook                   |
 |Mouse and USB-C adaptor |
 |Power supply and mains lead|
