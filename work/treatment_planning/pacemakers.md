@@ -15,3 +15,13 @@
 - If the leads for the device can be seen, every effort should be made to keep the leads out of the treatment field and doses limited.
 
 - For electron profiles see commisioning report AST-COM-91 (PDD and Profile data with Dynamic Graphs.xlsx)
+
+
+### Calculating dose to pacemaker in Eclipse
+
+- Copy plan into QAPhysics course and rename appropriately
+- Duplicate structure set
+- Contour pacemeker (not including leads) and add PRV (0.5 cm)
+- Make sure body is not forced to water
+- Ensure heterogeneity correction is ON
+- Calculate with fixed monitor units from original plan
