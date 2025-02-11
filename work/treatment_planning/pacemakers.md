@@ -21,7 +21,7 @@
 
 - Copy plan into QAPhysics course and rename appropriately
 - Duplicate structure set
-- Contour pacemeker (not including leads) and add PRV (0.5 cm)
+- Contour pacemaker (not including leads) and add PRV (0.5 cm)
 - Make sure body is not forced to water
 - Ensure heterogeneity correction is ON
 - Calculate with fixed monitor units from original plan
