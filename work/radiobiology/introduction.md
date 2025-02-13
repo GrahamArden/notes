@@ -40,6 +40,11 @@ Nick/Anna gave introductory talk (via Teams) on 2/12/24
 
 ### Linear Quadratic (LQ) model and alpha/beta ratios
 
+$SF_{d} = surviving fraction$
+
+$SF_{d} = exp(-\alpha d - \beta d^2)$
+
+Note that a lower alpha beta ration is more bendy (Big b = bendy!)
 
 ### BED and EQD2
 
