@@ -1,4 +1,4 @@
-### Radiobiology Notes
+### An introduction to Radiobiology
 
 Nick/Anna gave introductory talk (via Teams) on 2/12/24
 
