@@ -33,8 +33,10 @@ Nick/Anna gave introductory talk (via Teams) on 2/12/24
 - Reoxygenation
   - Oxygenated tissue is more radiosensetive, hypoxic tissue is more radioresistent
   - Tumour cells may start as hypoxic but become oxygenated as outer tumour cells are killed
+  - can be expressed as "oxgen Enhancement Ratio (OER). This is how much more sensetive oxygenated tissues are compared to hypoxic cells.
 
 - Radiosensetivity
+  - This is the tissue's inherent response to radiation. e.g. for a given dose fractionation lypomas will respond much more than other tumour types
 
 ### Linear Quadratic (LQ) model and alpha/beta ratios
 
