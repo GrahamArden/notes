@@ -21,9 +21,18 @@ Nick/Anna gave introductory talk (via Teams) on 2/12/24
 ### 5 (or 4+1) Rs of Radiobiolgy
 
 - Repair
+  - Cells recover in the hours after treatment, majority of DNA breaks repair within 15 mins to 4 hours
+  - This can be evidenced by split dose and delayed playing experiments. Less cell death when dose split into two fractions
 - Reassortment
+  - Relates to the cell cycle
+  - In G2 and M phases cells are much more sensetive to radiation damage
+  - Cells in a population will be in differeing parts of the cycle
 - Repopulation
+  - During an extended course of RT surviving cells may proliferate (Good for normal tissue but bad for tumour cells)
+  - For tumours this means more cells to kill
 - Reoxygenation
+  - Oxygenated tissue is more radiosensetive, hypoxic tissue is more radioresistent
+  - Tumour cells may start as hypoxic but become oxygenated as outer tumour cells are killed
 
 - Radiosensetivity
 
