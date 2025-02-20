@@ -11,6 +11,8 @@
 
 [Planning Algorithms](algorithms.md)
 
+[Electrons](electrons.md)
+
 [Cardiac Implanted Electronic Devices (Pacemakers)](pacemakers.md)
 
 [Calculations for superficial treatment (XStrahl)](superficial_calcs.md)
