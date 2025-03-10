@@ -14,3 +14,4 @@ I intend to run [Arch Linux](../arch_linux/README.md) on it.
 
 #### Software
 
+- I plan to install all my usual [software](./software.md)
