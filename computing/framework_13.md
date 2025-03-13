@@ -15,6 +15,7 @@ I intend to run [Arch Linux](../arch_linux/README.md) on it.
 #### Software
 
 - Install [Arch Linux on the Framework 13 Laptop](https://guides.frame.work/Guide/Arch+Linux+on+the+Framework+Laptop+13/398?lang=en) (Community guide)
+- The Framework [Arch Community Forum](https://community.frame.work/t/arch-linux-on-the-framework-laptop-13/3843)
 - The Arch Wiki [Installation guide](https://wiki.archlinux.org/title/Installation_guide)
 - The Arch Wiki [Framework Laptop 13](https://wiki.archlinux.org/title/Framework_Laptop_13) guide
 - I plan to install all my usual [software](./software.md)
