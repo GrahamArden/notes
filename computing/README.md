@@ -6,7 +6,7 @@ Some [books](../books/README.md#computing) I've found particularly useful
 
 I have a [home network](./trigfa.md) which includes a number of servers (mostly using Raspberry Pi hardware)
 
-Given the choice, I prefer [Arch Linux](../arch_linux/README.md) as an operating system and I've just bought a [Framework Laptop 13](./framework_13.md) I aslo have a Macbook running [macOS](../macos/README.md).
+Given the choice, I prefer [Arch Linux](../arch_linux/README.md) as an operating system and I've just bought a [Framework Laptop 13](./framework_13.md). I also have a Macbook running [macOS](../macos/README.md).
 
 
 I like to use the [command line](./command_line.md) to get things done efficiently.
