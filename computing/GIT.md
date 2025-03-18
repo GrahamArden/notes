@@ -113,7 +113,51 @@ After adding the submodule, you need to initialize and update it:
 git submodule update --init --recursive
 ```
 
-Choose the approach that best fits your use case, and adjust the paths and URLs accordingly. Keep in mind that when using submodules, the cloned directory will be in its own Git repository, and changes made within that directory should be committed and pushed separately in its own repository.
+### Undo Uncommitted Changes (Modified Files)
+If you modified a file but haven't staged it yet:
+
+```bash
+git checkout -- <file>
+```
+This will revert the file to the last committed version.
+
+If you staged the changes (with git add), but haven't committed:
+
+```bash
+git reset HEAD <file>
+```
+This unstages the file, but keeps the modifications.
+
+### Undo Last Commit (But Keep Changes)
+If you want to undo the last commit but keep the changes:
+
+```bash
+git reset --soft HEAD~1
+```
+This moves the commit back to the staging area.
+
+### Undo Last Commit (Discarding Changes)
+If you want to delete the last commit and discard the changes:
+
+```bash
+git reset --hard HEAD~1
+```
+⚠ This is irreversible unless you have backups.
+
+### Undo Last Pushed Commit
+If you've already pushed the commit to a remote branch and want to undo it:
+
+```bash
+git reset --hard HEAD~1
+git push --force
+```
+⚠ Be careful—this can rewrite history for others.
+
+### Undo a Specific File to a Previous Commit
+```bash
+git checkout <commit_hash> -- <file>
+```
+This restores a file from an older commit but doesn’t remove it from history.
 
 
 
