@@ -12,6 +12,7 @@ Things I like to have installed, whether I'm working on [Arch Linux](../arch_lin
 - zsh, and obviously, [oh-my-zsh](https://ohmyz.sh/)
   - I like using the [command line](./command_line.md), particularly if I can use [oh-my-zsh](https://github.com/ohmyzsh/wiki/blob/main/Cheatsheet.md)
 - I keep most of my [dotfiles](https://github.com/webpro/awesome-dotfiles) in a [git repository](https://github.com/GrahamArden/dotfiles), and use [GNU Stow](https://www.gnu.org/software/stow/) to share them between machines.
+  - Hint: `cd ~/dotfiles/` then `stow .`
   - My _old_ dotfiles were stored [here](https://bitbucket.org/trigfa/dotfiles/src/master/). This may be a useful starting point where rewriting them.
   - See this useful [YouTube video](https://www.youtube.com/watch?v=y6XCebnB9gs)
 
