@@ -2,7 +2,7 @@
 
 Things I like to have installed, whether I'm working on [Arch Linux](../arch_linux/README.md) , [macOS](../macos/README.md) or Windows (which I use for [work](../work/README.md))
 
-- The web browser [Firefox](https://wiki.archlinux.org/title/Firefox) hardened using [arkenfox/user.js](https://github.com/arkenfox/user.js/))
+- The web browser [Firefox](https://wiki.archlinux.org/title/Firefox) (hardened using [arkenfox/user.js](https://github.com/arkenfox/user.js/)), although I'm condering swapping over to [LibreWolf](https://librewolf.net/) which is available via the [AUR](https://aur.archlinux.org/packages/librewolf)
 - [Thunderbird](https://wiki.archlinux.org/title/Thunderbird) (I still haven't found anything I prefer for email, although it should be set to [use plain text](https://useplaintext.email/))
   
 - A really [Awesome](https://awesomewm.org/) window manager (Obvioulsy this one is only for Linux), although I am now thinking of changing to [QTile](https://qtile.org/) partly because it's written in [my favourite programming language](https://www.python.org)
