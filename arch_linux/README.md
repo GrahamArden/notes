@@ -11,6 +11,8 @@ I currently run Arch on my desktop (An old [Dell Optiplex 3020](https://www.dell
 
 Here is a list of some of the [software](../computing/software.md) I like to have installed.
 
+[Packeges](./arch_packages.md) to install (in particular what Python libraries i tend to require)
+
 I also run a few [Raspberry Pis](https://www.raspberrypi.com) around the house, mainly running [Raspberry Pi OS](https://www.raspberrypi.com/software/operating-systems/) which is [Debian](https://www.debian.org) based.
 
 [up](README.md)
