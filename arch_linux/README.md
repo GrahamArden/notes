@@ -7,9 +7,7 @@ This is a space to keep my notes on [Arch Linux](https://archlinux.org/) (and Li
 
 Arch is a rolling release so usually the software should be up-to-date.
 
-I currently run Arch on my desktop (An old [Dell Optiplex 3020](https://www.dell.com/support/home/en-uk/product-support/product/optiplex-3020-desktop/overview) given to me by my son).
-
-I have just ordered a [Framework Laptop 13](https://frame.work/gb/en/laptop13) to run it on as well. It also has a useful [repair manual](https://www.ifixit.com/Device/Framework_Laptop) available on [ifixit.com](https://ifixit.com). A page on the Laptop 13 is [here](../computing/framework_13.md)
+I currently run Arch on my desktop (An old [Dell Optiplex 3020](https://www.dell.com/support/home/en-uk/product-support/product/optiplex-3020-desktop/overview) given to me by my son) and a [Framework Laptop 13](https://frame.work/gb/en/laptop13). The [Framework 13](../computing/framework_13.md) also has a useful [repair manual](https://www.ifixit.com/Device/Framework_Laptop) available on [ifixit.com](https://ifixit.com).
 
 Here is a list of some of the [software](../computing/software.md) I like to have installed.
 
