@@ -18,6 +18,7 @@ The beauty of using [Markdown](https://github.com/adam-p/markdown-here/wiki/Mark
 #### Computers
 
 - [General computing stuff](./computing/README.md)
+- [Framework Laptop 13](./computing/framework13.md) because you should be able to fix things you own.
 - [Network](./computing/network.md)
 - Some useful [software](./computing/software.md) 
 
