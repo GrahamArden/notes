@@ -4,4 +4,14 @@
 
 - python-matplotlib
 - python-scipy
-- 
+- python-pandas
+- python-numpy
+- python-ipykernel
+- jupyterlab
+- ipython
+- csvkit
+
+#### Coding
+- neovim
+- ttf-jetbrains-mono-nerd
+- alacritty
