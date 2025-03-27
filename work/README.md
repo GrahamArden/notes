@@ -11,7 +11,7 @@ Repeat [acceptance testing](./electrometer_acceptance.md) for the repaired elect
 
 ### [Treatment planning](treatment_planning/README.md)
 
-My own [Breast planning notes](treatment_planning/Breast%20planning%20notes.md) mainly picked up from errors that people had pointed out when checking
+My own [Breast planning notes](treatment_planning/Breast_planning.md) mainly picked up from errors that people had pointed out when checking
 
 ### [PSQA](./psqa/README.md)
 
