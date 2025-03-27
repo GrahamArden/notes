@@ -7,7 +7,7 @@
 - TP-GD-59: Patient orientation guidance
 - TP-GD-30: Isocentre selection
 
-[Breast planning](Breast%20planning%20notes.md)
+[Breast planning](Breast_planning.md)
 
 [Urology (Prostate/Bladder) planning](./Urology_planning.md)
 
