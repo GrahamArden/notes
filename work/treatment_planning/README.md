@@ -9,6 +9,8 @@
 
 [Breast planning](Breast%20planning%20notes.md)
 
+[Urology (Prostate/Bladder) planning](./Urology_planning.md)
+
 [Planning Algorithms](algorithms.md)
 
 [Electrons](electrons.md)
