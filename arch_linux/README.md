@@ -11,6 +11,8 @@ I currently run Arch on my desktop (An old [Dell Optiplex 3020](https://www.dell
 
 The [Framework 13](../computing/framework_13.md) also has a useful [repair manual](https://www.ifixit.com/Device/Framework_Laptop) available on [ifixit.com](https://ifixit.com).
 
+I run Wayland along with [hyprland] (https://wiki.archlinux.org/title/Hyprland)
+
 Here is a list of some of the [software](../computing/software.md) I like to have installed.
 
 [Packages](./arch_packages.md) to install (in particular what Python libraries i tend to require)
