@@ -11,7 +11,7 @@ I run [Arch Linux](../arch_linux/README.md) by the way.
   - See also [here](https://knowledgebase.frame.work/en_us/framework-laptop-13-bios-and-driver-releases-amd-ryzen-7040-series-r1rXGVL16) and [here](https://wiki.archlinux.org/title/Fwupd)
 - The Framework [forums](https://community.frame.work/)
 - Some useful notes at [ifixit](https://www.ifixit.com/Device/Framework_Laptop)
-- It would be useful to get my [usb c docking station](https://community.frame.work/t/usb-c-thunderbolt-dock-megathread/1460) working
+- It also have a [HP Thundrbolt docking station](https://www.amazon.co.uk/dp/B0B5LM6427?ref=ppx_yo2ov_dt_b_fed_asin_title) which, surprisingly worked straight out of the box
 
 #### Software
 
