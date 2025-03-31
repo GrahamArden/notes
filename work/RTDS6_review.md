@@ -3,7 +3,7 @@
 - All data up to Saturday onwards already extracted
 ### Registration
 - DOB, postcode and sex (e.g. 1-Male) are mandatory in Registration
-- Course properties Name (1 name) must have a space
+- Course properties Name (1 name) _*** must have a space ***_
 - Intent is now treatment modality (1 - External Beam Radiotherapy) or (2 - Brachytherapy)
 ### Diagnosis work space
 - Referal Decision and Category are no longer diagnoses.
