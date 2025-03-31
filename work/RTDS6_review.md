@@ -24,8 +24,7 @@
 - IMRT technique
 - Laterality (This is the _planned_ area, use N/A for e.g. prostates)
 - RT Tx priority
--  - Routine for most
- 
+   - Routine for most
 - RT Intent and RCR Category is on the EPMF
 - Plan Type (leave for Said for now)
 - Specialist RT Trt (Select as appropriate)
