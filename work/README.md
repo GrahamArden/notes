@@ -28,7 +28,8 @@ It's also useful for [sharing patient plans externally](proknow/sharing_patient_
 
 ### Development
 
-[Limbus AI implementation](Limbus%20AI%20implementation.md)
+- [Limbus AI implementation](Limbus%20AI%20implementation.md)
+- [Updating patients to RTDS6](./RTDS6_review.md)
 
 
 ### Monthly catch up meetings
