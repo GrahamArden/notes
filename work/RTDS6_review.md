@@ -15,7 +15,8 @@
 - Add referal (Referal_1) and decision (Decision_1) tasks with correct date from above
 - DOFPA (Date of first planning activity). This is the date of the plan we finally use for planning.
   - Open activity cpature on scan task (e.g Brain/H&N with contrast)
-  - Add procdure code (see all procedure code) and find DOFPS. Correct to date of service and ignore
+  - Add procdure code (see all procedure code) and find DOFPA
+  - Correct to date of service and ignore
 ### A1 code
 - Add new A1 code and copy across data from existing A1 code
 - Delete existing A1 code (Make sure you delete the existing one)
