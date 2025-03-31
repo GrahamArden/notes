@@ -9,7 +9,7 @@
 ### Diagnosis work space
 - Referal Decision and Category are no longer diagnoses.
 - Make a note of dates and then error out (RTDS V5 to V6 as reason).  DO NOT DELETE THE ACTUAL DIAGNOSIS (The C or D cdoe)
-- Check laterality is set correct (bottom right panel)
+- Check laterality is set correct (bottom right panel) : Use N/A for e.g. prostate
 ### Care path
 - Referal recieved should be at the correct date from above (Leave this alone)
 - Add referal (Referal_1) and decision (Decision_1) tasks with correct date from above
