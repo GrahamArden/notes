@@ -15,3 +15,6 @@
 - neovim
 - ttf-jetbrains-mono-nerd
 - alacritty
+- git
+- github-cli
+
