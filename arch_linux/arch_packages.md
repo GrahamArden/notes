@@ -18,3 +18,6 @@
 - git
 - github-cli
 
+#### Wayland
+- wayland
+- hyprland
