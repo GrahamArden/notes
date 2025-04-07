@@ -1,5 +1,8 @@
 ### Books
-Generally I prefer real, physical, dead tree books, but that's just me (although I have recently bought a [kindle Scribe](https://www.amazon.co.uk/kindle-scribe/dp/B09BSQ365J) and I'm impressed with it).
+Generally I prefer real, physical, dead tree books, but that's just me (although I have recently bought a [kindle Scribe](https://www.amazon.co.uk/kindle-scribe/dp/B09BSQ365J) and I'm impressed with it). Obviously it should be free of Amazon's malign influence and now with a combination of [modding](https://kindlemodding.org/), [Koreader](https://github.com/koreader/koreader) and [Calbre](https://calibre-ebook.com/), it can be.
+
+- A useful [guide](https://www.youtube.com/watch?v=Qtk7ERwlIAk) to jailbreaking your Kindle.
+  
 
 My favourite author, for both fiction and non fiction is [George Orwell](https://www.goodreads.com/search?utf8=%E2%9C%93&query=george+orwell). Why? Becasue he [matters](https://www.amazon.co.uk/Why-Orwell-Matters-Christopher-Hitchens/dp/0465030505/ref=sr_1_1?crid=3IV28LHU04J17&keywords=why+orwell+matters&qid=1708100573&sprefix=why+orwell+%2Caps%2C91&sr=8-1)
 
