@@ -36,6 +36,9 @@ Things I like to have installed, whether I'm working on [Arch Linux](../arch_lin
 ### Music
 - I keep my music library organised using [beets](https://beets.io/)
 
+### Books
+- [Calbre](https://calibre-ebook.com/) works great with Kindle, especially if you [jailbreak](https://kindlemodding.org/) it
+
 ### File sharing
 - Google Drive.
   - using [rclone](https://archlinux.org/packages/extra/x86_64/rclone/), particulary the [rclone mount](https://rclone.org/commands/rclone_mount/) command
