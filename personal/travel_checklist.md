@@ -1,5 +1,5 @@
 ### Travel checklist
-
+- There's a really extensive checklist for more technical events [here](https://github.com/MacLemon/CongressChecklist)
 #### Physical Documents
 
 |Item                                 |        Checked      |
