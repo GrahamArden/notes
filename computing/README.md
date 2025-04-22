@@ -4,6 +4,8 @@ Some of the [software](./software.md) I like to have installed.
 
 Some [books](../books/README.md#computing) I've found particularly useful
 
+At some point I'd really like to attend [Electromagnetic Fields](https://www.emfcamp.org/)
+
 I have a [home network](./trigfa.md) which includes a number of servers (mostly using Raspberry Pi hardware)
 
 Given the choice, I prefer [Arch Linux](../arch_linux/README.md) as an operating system and I've just bought a [Framework Laptop 13](./framework_13.md). I also have a Macbook running [macOS](../macos/README.md).
