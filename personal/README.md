@@ -1,8 +1,8 @@
 These are my non-work related notes. It may become useful.
 
-[Travel checklist](travel_checklist.md) for our upcoming trip to Prague
+A first attempt at a [Travel checklist](travel_checklist.md). I'll probably do a seperate one for trips in our camper.
 
-[Polytunnel](Polytunnel.md)
+We have a [Polytunnel](Polytunnel.md)
 
 
 [up](README.md)
