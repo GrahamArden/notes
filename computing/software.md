@@ -28,6 +28,7 @@ Things I like to have installed, whether I'm working on [Arch Linux](../arch_lin
 
 - I'm currently looking at [Quarto](https://quarto.org) particularly for using notebooks for [presentations](https://quarto.org/docs/presentations/) 
 - Plugins are available for [Neovim](https://quarto.org/docs/get-started/hello/neovim.html), [Jupyter](https://quarto.org/docs/get-started/hello/jupyter.html) and [Visual Studio Code](https://quarto.org/docs/get-started/hello/vscode.html)
+- Unfortunately the Arch Liux AUR package is currently broken so, for the time being, I'm building the [development version](https://github.com/quarto-dev/quarto-cli) from the project's GitHub page.
 
 ### Photography
 - Organise my photos using [Shotwell](https://en.wikipedia.org/wiki/Shotwell_(software))
