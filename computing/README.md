@@ -21,5 +21,7 @@ If your system is broken then [this](https://www.system-rescue.org/) has proved 
 
 Useful [DNS](./DNS_cheatsheet.md) commands
 
+Sometimes computers [aren't all they're cracked up to be :-)](https://postofficeinquiry.dracos.co.uk/)
+
 [up](README.md)
 [top](../README.md)
