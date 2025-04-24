@@ -4,7 +4,7 @@ Some of the [software](./software.md) I like to have installed.
 
 Some [books](../books/README.md#computing) I've found particularly useful
 
-At some point I'd really like to attend [Electromagnetic Fields](https://www.emfcamp.org/) or even one of the [CCC events](https://events.ccc.de/) similar to [this one](https://events.ccc.de/camp/2023/infos/index.html)
+At some point I'd really like to attend [Electromagnetic Fields](https://www.emfcamp.org/) or even one of the [CCC events](https://events.ccc.de/) similar to [this one](https://events.ccc.de/camp/2023/infos/index.html) Somehow I doubt this will ever happen!
 
 I have a [home network](./trigfa.md) which includes a number of servers (mostly using Raspberry Pi hardware)
 
