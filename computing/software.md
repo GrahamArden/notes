@@ -7,6 +7,7 @@ Things I like to have installed, whether I'm working on [Arch Linux](../arch_lin
 
 - zsh, and obviously, [oh-my-zsh](https://ohmyz.sh/)
   - I like using the [command line](./command_line.md), particularly if I can use [oh-my-zsh](https://github.com/ohmyzsh/wiki/blob/main/Cheatsheet.md)
+  - I'm currently looking at [Atuin](https://meyer-laurent.com/atuin-the-magical-shell) to share shell history across different machines
 - I keep most of my [dotfiles](https://github.com/webpro/awesome-dotfiles) in a [git repository](https://github.com/GrahamArden/dotfiles), and use [GNU Stow](https://www.gnu.org/software/stow/) to share them between machines.
   - Hint: `cd ~/dotfiles/` then `stow .`
   - My _old_ dotfiles were stored [here](https://bitbucket.org/trigfa/dotfiles/src/master/). This may be a useful starting point where rewriting them.
@@ -33,6 +34,7 @@ Things I like to have installed, whether I'm working on [Arch Linux](../arch_lin
 ### Photography
 - Organise my photos using [Shotwell](https://en.wikipedia.org/wiki/Shotwell_(software))
 - [Sync](https://aur.archlinux.org/packages/gphotos-sync) from [Google Photos](https://photos.google.com/)
+- I'd quite like to get into Astrophotography. Must look at [Siril](https://siril.org/)
 
 ### Music
 - I keep my music library organised using [beets](https://beets.io/)
