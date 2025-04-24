@@ -25,9 +25,9 @@
 |Power bank| 
 |Earbuds (2 pairs)|
 |Bluetooth speaker |
-|Macbook                   |
+|Framework laptop                 |
 |Mouse and USB-C adaptor |
-|Power supply and mains lead|
+|Power supply|
 |Euro mains adaptor|
 |USB cables (USB-C and micro USB)|
 |USB memory sticks|
