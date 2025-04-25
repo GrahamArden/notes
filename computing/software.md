@@ -18,7 +18,7 @@ Things I like to have installed, whether I'm working on [Arch Linux](../arch_lin
 - I really like [NeoVim](https://neovim.io/) which works well in [tmux](https://github.com/tmux/tmux/wiki) on both Linux and Mac. It also now [works](https://github.com/github/copilot.vim) with [copilot](https://github.com/features/copilot)
   - A useful series of videos on setting up NeoVim is available [here](https://www.youtube.com/watch?v=zHTeCSVAFNY)
 
-- On my Windows machine in work I use [Visual Studio Code](https://code.visualstudio.com/) [(AUR)](https://aur.archlinux.org/packages/visual-studio-code-bin) which, surprisingly, has now become my [second favourite code editor](https://code.visualstudio.com/updates/v1_86)
+- On my Windows machine in work I use [Visual Studio Code](https://code.visualstudio.com/) [(AUR)](https://aur.archlinux.org/packages/visual-studio-code-bin) which, surprisingly, has now become my second favourite code editor
   - It's also pretty good for working with [Jupyter](https://jupyter.org/)[ notebooks/lab](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter)
 
 - For virtual Python environments, just use [venv](../python/virtual_environments.md) 
