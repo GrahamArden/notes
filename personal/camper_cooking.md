@@ -21,11 +21,11 @@ _list of cooking equipment and basic food items that we have in our campervan. I
 - Coolbox/freezer packs
 
 #### Food items 
-_The first group should be in the fridge_
+_Things marked (F) should be in the fridge_
 
-- Milk (Fresh) 
-- Butter/spread
-- Tomato puree
+- Milk (F) 
+- Butter/spread (F)
+- Tomato puree (F)
 
 
 - Tea/coffee
