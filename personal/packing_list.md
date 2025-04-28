@@ -1,6 +1,6 @@
 ### Packing list
 
- #### Clothing: 
+#### Clothing: 
  
 - **Tops**: T-shirts, long-sleeve shirts, sweaters
 - **Bottoms**: Pants, shorts, skirts

@@ -38,3 +38,7 @@ _Google Drive (or similar) with copies of all important documents (passports, EH
 - Euro mains adaptor
 - USB cables (USB-C and micro USB)
 - USB memory sticks
+
+#### [Clothing](packing_list.md#clothing)
+
+#### [Toiletries](packing_list.md#toiletries)
