@@ -1,10 +1,21 @@
 ## Campervan checklist
 
-### Cooking
+### Cooking/Eating
 - Gas Kettle
 - Small electric kettle
 - Frying pan
 - 2 x pans with lids
+- Chopping board
+- Knives (large, small, bread)
+- Crockery (Large, small plates, bowls, mugs)
+- Cutlery (knives, forks, spoons, teaspoons)
+- Wine glasses(plastic)
+- Plastic tumblers
+- Tea towels
+- Washing up liquid/sponge
+
+- Tea/coffee
+- Wine/beer
 
 ### Sleep
 - 2 x sleeping bags
