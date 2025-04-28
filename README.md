@@ -36,7 +36,7 @@ __Operating systems__
 
 #### Other _probably more important_ home stuff
 
-- [Personal](./personal/README.md)
+- [Personal](./personal/README.md) includes stuff on travel, camping, gardening (and some useful checklists)
 - If you own it, you should be allowed to [repair it](./personal/Right_to_repair.md)
 - I like [books](./books/README.md)
 
