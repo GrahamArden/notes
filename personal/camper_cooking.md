@@ -17,12 +17,17 @@ _list of cooking equipment and basic food items that we have in our campervan. I
 - Collapsible water container
 - Collapsible washing up bowl
 - Portable barbeque
-- Charcoal/Firelighters/Matches
+- Charcoal/firelighters/matches
+- Coolbox/freezer packs
 
-#### Food items
+#### Food items 
+_The first group should be in the fridge_
 
 - Milk (Fresh) 
 - Butter/spread
+- Tomato puree
+
+
 - Tea/coffee
 - Wine/beer
 - Salt/pepper
