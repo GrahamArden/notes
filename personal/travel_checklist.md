@@ -26,14 +26,13 @@ _Google Drive (or similar) with copies of all important documents (passports, EH
 
 #### Tech
 
-- Mobile phone
-- Mobile phone (Melissa)
-- Power bank
-- Earbuds (2 pairs)
-- Bluetooth speaker
+- Mobile phones (Me/Melissa)
 - [Framework laptop](../computing/framework_13.md)
 - [Kindle Scribe](../books/README.md)
 - Camera (Sony Alpha ZV-E10)
+- Bluetooth speaker
+- Power bank
+- Earbuds (2 pairs)
 - Mouse and USB-C adaptor
 - Power supply
 - Euro mains adaptor
