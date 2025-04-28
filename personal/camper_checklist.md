@@ -14,7 +14,8 @@
 - Peg hammer/puller
 - Spare guyropes
 - Awning mat
-- Awning lights
+- Awning light
+- Flagpole/flags
 
 ### Electrical (if hookup available)
 - Long 16A CEE mains lead
