@@ -12,3 +12,5 @@
 *.css
 *.js
 */libs/*
+*.html
+*.pdf

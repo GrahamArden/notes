@@ -13,7 +13,7 @@
 - Mains distribution borad (for use in awning)
 - Mains socket tester
 
-### Awning
+### Awning (if applicable)
 - Inflatable awning
 - Pump
 - Tent pegs
