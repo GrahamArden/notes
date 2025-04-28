@@ -32,7 +32,7 @@ _Google Drive (or similar) with copies of all important documents (passports, EH
 - Earbuds (2 pairs)
 - Bluetooth speaker
 - [Framework laptop](../computing/framework_13.md)
-- Kindle Scribe
+- [Kindle Scribe](../books/README.md)
 - Camera (Sony Alpha ZV-E10)
 - Mouse and USB-C adaptor
 - Power supply
