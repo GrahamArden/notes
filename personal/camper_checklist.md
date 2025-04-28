@@ -18,3 +18,6 @@
 - Pump
 - Tent pegs
 - Peg hammer/puller
+- Spare guyropes
+- Awning carpet
+- Awning lights

@@ -6,3 +6,6 @@
 /.log
 /.obsidian-git
 /.obsidian-recovery
+*.woff
+*.css
+*.js
