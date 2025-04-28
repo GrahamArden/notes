@@ -37,3 +37,8 @@
 - UK 13A to CEE adaptor
 - 13A Mains distribution board (for use in awning)
 - 13A Mains socket tester
+
+### Other
+_These should be kept in the van, but it's best to check_
+- Levelling chocks
+- First aid kit
