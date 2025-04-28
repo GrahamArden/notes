@@ -27,6 +27,7 @@ _Google Drive (or similar) with copies of all important documents (passports, EH
 - Earbuds (2 pairs)
 - Bluetooth speaker
 - Framework laptop
+- Kindle Scribe
 - Mouse and USB-C adaptor
 - Power supply
 - Euro mains adaptor
