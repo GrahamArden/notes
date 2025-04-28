@@ -26,11 +26,13 @@
 ### Other
 _These should be kept in the van, but it's best to check_
 
+- Camping towels
 - Camp chairs
 - Collapsible tables (Large/small)
 - Levelling chocks
 - Short hose (for filling water tank)
 - First aid kit
+- Fire extinguisher
 - Head torch
 - Fire extinguisher
 - Small toolkit (screwdrivers, pliers, adjustable spanner, hammer)

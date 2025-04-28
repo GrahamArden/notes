@@ -1,6 +1,6 @@
 ### Packing list
 
- **Clothing**: 
+ #### Clothing: 
  
 - **Tops**: T-shirts, long-sleeve shirts, sweaters
 - **Bottoms**: Pants, shorts, skirts
@@ -8,4 +8,12 @@
 - **Undergarments**: Socks, underwear
 - **Footwear**: Trainers, Walking shoes/boots, dress shoes
 - **Accessories**: Hats, scarves, gloves
-- **Sleepwear**: Pajamas, loungewear
+- **Sleepwear**: Pajamas, loungewea
+
+#### Toiletries:
+
+- Shampoo/shower gel
+- Toothbrush/toothpaste
+- Deodorant
+- Sun cream
+- Moisturiser
