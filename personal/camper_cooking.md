@@ -29,5 +29,6 @@ _list of cooking equipment and basic food items that we have in our campervan. I
 - Vinegar (balsamic, white wine)
 - Chilli flakes
 - Paprika
-- Garlic powder
+- Garlic paste
+- Ginger paste
 - Stock cubes (vegetable, chicken, beef)
