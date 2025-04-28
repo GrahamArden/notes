@@ -16,6 +16,8 @@ _list of cooking equipment and basic food items that we have in our campervan. I
 - Cookery books (Guyrope Gourmet, The Camper Van Cookbook)
 - Collapsible water container
 - Collapsible washing up bowl
+- Portable barbeque
+- Charcoal/Firelighters/Matches
 
 #### Food items
 
