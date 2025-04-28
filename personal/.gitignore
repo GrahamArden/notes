@@ -6,3 +6,9 @@
 /.log
 /.obsidian-git
 /.obsidian-recovery
+
+# Quarto files
+*.woff
+*.css
+*.js
+*/libs/*
