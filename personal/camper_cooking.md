@@ -28,8 +28,6 @@ _Things marked (F) should be in the fridge_
 - Milk (F) 
 - Butter/spread (F)
 - Tomato puree (F)
-
-
 - Tea/coffee
 - Wine/beer
 - Salt/pepper
