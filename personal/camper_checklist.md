@@ -5,19 +5,24 @@
 - Small electric kettle
 - Frying pan
 - 2 x pans with lids
-  
-### Electrical (if hookup available)
-- Long 16A CEE mains lead
-- European plug to CEE adaptor
-- UK 13A to CEE adaptor
-- Mains distribution borad (for use in awning)
-- Mains socket tester
 
+### Sleep
+- 2 x sleeping bags
+- 2 x pillows
+- 2 x pillow cases
+  
 ### Awning (if applicable)
 - Inflatable awning
 - Pump
 - Tent pegs
 - Peg hammer/puller
 - Spare guyropes
-- Awning carpet
+- Awning mat
 - Awning lights
+
+### Electrical (if hookup available)
+- Long 16A CEE mains lead
+- European plug to CEE adaptor
+- UK 13A to CEE adaptor
+- 13A Mains distribution board (for use in awning)
+- 13A Mains socket tester

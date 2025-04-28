@@ -11,4 +11,6 @@
 *.woff
 *.css
 *.js
+*.html
+*.pdf
 */libs/*
