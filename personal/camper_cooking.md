@@ -33,6 +33,7 @@ _Things marked (F) should be in the fridge_
 - Salt/pepper
 - Sugar (the sachets you get from coffee shops are useful)
 - Oil (olive, rapeseed)
+- Mustard
 - Vinegar (balsamic, white wine)
 - Chilli flakes
 - Paprika
