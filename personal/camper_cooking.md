@@ -1,4 +1,4 @@
-### Camper Cooking
+### Campervan Cooking
 _list of cooking equipment and basic food items that we have in our campervan. It is not a complete list of everything you might need, but it is a good starting point_
 
 - Gas Kettle

@@ -1,6 +1,6 @@
 ## Campervan checklist
 
-### [Cooking/Eating](./camper_checklist.md)
+### [Cooking/Eating](./camper_cooking.md)
 
 ### Sleep
 - 2 x sleeping bags
