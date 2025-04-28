@@ -26,6 +26,8 @@
 ### Other
 _These should be kept in the van, but it's best to check_
 
+- Camp chairs
+- Collapsible tables (Large/small)
 - Levelling chocks
 - Short hose (for filling water tank)
 - First aid kit
