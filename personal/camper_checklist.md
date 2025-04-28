@@ -1,21 +1,6 @@
 ## Campervan checklist
 
-### Cooking/Eating
-- Gas Kettle
-- Small electric kettle
-- Frying pan
-- 2 x pans with lids
-- Chopping board
-- Knives (large, small, bread)
-- Crockery (Large, small plates, bowls, mugs)
-- Cutlery (knives, forks, spoons, teaspoons)
-- Wine glasses(plastic)
-- Plastic tumblers
-- Tea towels
-- Washing up liquid/sponge
-
-- Tea/coffee
-- Wine/beer
+### [Cooking/Eating](./camper_checklist.md)
 
 ### Sleep
 - 2 x sleeping bags
@@ -40,5 +25,10 @@
 
 ### Other
 _These should be kept in the van, but it's best to check_
+
 - Levelling chocks
 - First aid kit
+- Head torch
+- Fire extinguisher
+- Small toolkit (screwdrivers, pliers, adjustable spanner, hammer)
+- Spare fuses
