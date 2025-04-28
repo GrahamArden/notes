@@ -1,3 +1,5 @@
+#Personal notes
+
 These are my non-work related notes. It may become useful.
 
 ### Travel
