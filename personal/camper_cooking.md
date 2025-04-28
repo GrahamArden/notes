@@ -6,6 +6,8 @@ _list of cooking equipment and basic food items that we have in our campervan. I
 - Frying pan
 - 2 x pans with lids
 - Chopping board
+- Mixing bowl
+- Tupperware boxes
 - Knives (large, small, bread)
 - Crockery (Large, small plates, bowls, mugs)
 - Cutlery (knives, forks, spoons, teaspoons)
