@@ -33,6 +33,7 @@ _Google Drive (or similar) with copies of all important documents (passports, EH
 - Bluetooth speaker
 - Framework laptop
 - Kindle Scribe
+- Camera (Sony Alpha ZV-E10)
 - Mouse and USB-C adaptor
 - Power supply
 - Euro mains adaptor
