@@ -19,12 +19,8 @@ _list of cooking equipment and basic food items that we have in our campervan. I
 
 #### Food items
 
-#####Fresh#####
-
-- Milk
+- Milk (Fresh) 
 - Butter/spread
-
-
 - Tea/coffee
 - Wine/beer
 - Salt/pepper
