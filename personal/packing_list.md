@@ -6,9 +6,9 @@
 - **Bottoms**: Pants, shorts, skirts
 - **Outerwear**: Jacket, coat, rain gear
 - **Undergarments**: Socks, underwear
-- **Footwear**: Trainers, Walking shoes/boots, dress shoes
+- **Footwear**: Trainers, Walking shoes/boots, sandals, slippers
 - **Accessories**: Hats, scarves, gloves
-- **Sleepwear**: Pajamas, loungewea
+- **Sleepwear**: Pajamas
 
 #### Toiletries:
 
@@ -17,3 +17,4 @@
 - Deodorant
 - Sun cream
 - Moisturiser
+- Pads
