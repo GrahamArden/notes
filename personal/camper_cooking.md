@@ -36,6 +36,6 @@ _Things marked (F) should be in the fridge_
 - Vinegar (balsamic, white wine)
 - Chilli flakes
 - Paprika
-- Garlic paste
-- Ginger paste
+- Garlic paste (F) 
+- Ginger paste (F) 
 - Stock cubes (vegetable, chicken, beef)
