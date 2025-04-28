@@ -27,6 +27,7 @@
 _These should be kept in the van, but it's best to check_
 
 - Levelling chocks
+- Short hose (for filling water tank)
 - First aid kit
 - Head torch
 - Fire extinguisher
