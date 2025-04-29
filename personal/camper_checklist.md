@@ -35,6 +35,5 @@ _These should be kept in the van, but it's best to check_
 - First aid kit
 - Fire extinguisher
 - Head torch
-- Fire extinguisher
 - Small toolkit (screwdrivers, pliers, adjustable spanner, hammer)
 - Spare fuses
