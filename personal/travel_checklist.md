@@ -9,7 +9,7 @@ _This should be used in addition to, for example, the [Camper checklist](camper_
 - Passports
 - EHIC/GHIC health card
 - Driving Licence 
-- Printed itinerary (ferry/flights, hotel/campsite/festival etc)
+- Printed itinerary/tickets (ferry/flights, hotel/campsite/festival etc)
 
 #### Stored documents
 _Google Drive (or similar) with copies of all important documents (passports, EHIC/GHIC, driving licence, insurance, etc.)_
@@ -17,6 +17,7 @@ _Google Drive (or similar) with copies of all important documents (passports, EH
 - Copy of passports 
 - Copy of EHIC/GHIC card
 - Copy of driving licence
+- Any tickets
 - Boarding cards
 
 #### Personal
