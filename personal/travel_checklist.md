@@ -17,6 +17,7 @@ _Google Drive (or similar) with copies of all important documents (passports, EH
 - Copy of passports 
 - Copy of EHIC/GHIC card
 - Copy of driving licence
+- Copy of van insurance/breakdown cover (if applicable)
 - Any tickets
 - Boarding cards
 
