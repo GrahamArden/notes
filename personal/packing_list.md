@@ -15,6 +15,6 @@
 - Shampoo/shower gel
 - Toothbrush/toothpaste
 - Deodorant
-- Sun cream
+- Sun cream (Factor 30+)
 - Moisturiser
 - Pads
