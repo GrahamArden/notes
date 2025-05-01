@@ -33,7 +33,11 @@ _These should be kept in the van, but it's best to check_
 - Levelling chocks
 - Short hose (for filling water tank)
 - First aid kit
+- Toilet roll
+- Toilet chemicals (if applicable)
+- Insect repellent
 - Fire extinguisher
 - Head torch
+- Foil blankets
 - Small toolkit (screwdrivers, pliers, adjustable spanner, hammer)
 - Spare fuses
