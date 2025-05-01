@@ -24,7 +24,7 @@ _Google Drive (or similar) with copies of all important documents (passports, EH
 #### Personal
 
 - Medication
-- Toiletries
+- [Toiletries](packing_list.md#toiletries)
 
 #### Tech
 
@@ -43,4 +43,3 @@ _Google Drive (or similar) with copies of all important documents (passports, EH
 
 #### [Clothing](packing_list.md#clothing)
 
-#### [Toiletries](packing_list.md#toiletries)
