@@ -25,6 +25,7 @@ _Google Drive (or similar) with copies of all important documents (passports, EH
 
 - Medication
 - [Toiletries](packing_list.md#toiletries)
+- [Clothing](packing_list.md#clothing)
 
 #### Tech
 
@@ -41,5 +42,5 @@ _Google Drive (or similar) with copies of all important documents (passports, EH
 - USB cables (USB-C and micro USB)
 - USB memory sticks
 
-#### [Clothing](packing_list.md#clothing)
+
 
