@@ -12,7 +12,7 @@ _list of cooking equipment and basic food items that we have in our campervan. I
 - Crockery (Large, small plates, bowls, mugs)
 - Cutlery (knives, forks, spoons, teaspoons)
 - Wine glasses(plastic)
-- Plastic tumblers
+- Plastic beer glasses
 - Tea towels
 - Washing up liquid/sponge
 - Cookery books (Guyrope Gourmet, The Camper Van Cookbook)
