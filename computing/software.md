@@ -37,7 +37,7 @@ Things I like to have installed, whether I'm working on [Arch Linux](../arch_lin
 - I'd quite like to get into Astrophotography. Must look at [Siril](https://siril.org/)
 
 ### Music
-- I keep my music library organised using [beets](https://beets.io/)
+- I keep my music library organised using [beets](https://beets.io/). See also the [Arch Wiki](https://wiki.archlinux.org/title/Beets)
 
 ### Books
 - [Calbre](https://calibre-ebook.com/) works great with Kindle, especially if you [jailbreak](https://kindlemodding.org/) it
