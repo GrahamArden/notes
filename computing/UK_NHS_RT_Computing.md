@@ -1,7 +1,7 @@
 ### TPS Scripting
 Talks by David Buckle (Royal Berkshire, Eclipse) and Josh Kirby (Newcastle, Raystation) as part of the UK NHS RT Computing meeting on 2025-05-13
 
-- What scip[ts do you have?
+- What scipts do you have?
 - How do you manage them
   
 ### Eclipse Scripting
