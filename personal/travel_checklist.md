@@ -32,7 +32,7 @@ _Google Drive (or similar) with copies of all important documents (passports, EH
 - Mobile phones (Me/Melissa)
 - [Framework laptop](../computing/framework_13.md)
 - [Kindle Scribe](../books/README.md)
-- Camera (Sony Alpha ZV-E10)
+- Cameras (Canon dSLR and Sony mirrorless)
 - Bluetooth speaker
 - Power bank
 - Earbuds (2 pairs)
