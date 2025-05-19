@@ -1,5 +1,7 @@
 ### Urology planning notes
+_See TP-GD-51 for general guidane on pelvic planning_
 
+### Initial steps
 - Set to couch marker
 - Set reference point
 - Check documents
