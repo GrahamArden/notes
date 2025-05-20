@@ -1,6 +1,6 @@
 # Personal notes
 
-These are my non-work related notes. It may become useful.
+This is the more interesing stuff
 
 ### Travel
 
@@ -11,7 +11,7 @@ These are my non-work related notes. It may become useful.
 
 One of these trips, will be when we visit [Krankenhaus](https://krankenhausfestival.com/) at the end of August
 
-### Garden
+### Gardening
 We have a [Polytunnel](Polytunnel.md)
 
 
