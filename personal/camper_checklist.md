@@ -1,13 +1,15 @@
-## Campervan checklist
+# Campervan checklist
 
-### [Cooking/Eating](./camper_cooking.md)
+## [Cooking/Eating](./camper_cooking.md)
 
-### Sleep
+## Sleep
+
 - 2 x sleeping bags
 - 2 x pillows
 - 2 x pillow cases
   
-### Awning (if applicable)
+## Awning (if applicable)
+
 - Inflatable awning
 - Pump
 - Tent pegs
@@ -17,14 +19,16 @@
 - Awning light
 - Flagpole/flags
 
-### Electrical (if hookup available)
+## Electrical (if hookup available)
+
 - Long 16A CEE mains lead
 - European plug to CEE adaptor
 - UK 13A to CEE adaptor
 - 13A Mains distribution board (for use in awning)
 - 13A Mains socket tester
 
-### Other
+## Other
+
 _These should be kept in the van, but it's best to check_
 
 - Camping towels

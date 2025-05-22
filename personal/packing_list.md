@@ -1,7 +1,7 @@
-### Packing list
+# Packing list
 
-#### Clothing: 
- 
+## Clothing
+
 - **Tops**: T-shirts, long-sleeve shirts, sweaters
 - **Bottoms**: Pants, shorts, skirts
 - **Outerwear**: Jacket, coat, rain gear
@@ -10,7 +10,7 @@
 - **Accessories**: Hats, scarves, gloves
 - **Sleepwear**: Pajamas
 
-#### Toiletries:
+## Toiletries
 
 - Shampoo/shower gel
 - Toothbrush/toothpaste

@@ -1,4 +1,5 @@
-### Campervan Cooking
+# Campervan Cooking
+
 _list of cooking equipment and basic food items that we have in our campervan. It is not a complete list of everything you might need, but it is a good starting point_
 
 - Gas Kettle
@@ -22,10 +23,11 @@ _list of cooking equipment and basic food items that we have in our campervan. I
 - Charcoal/firelighters/matches
 - Coolbox/freezer packs
 
-#### Food items 
+## Food items
+
 _Things marked (F) should be in the fridge_
 
-- Milk (F) 
+- Milk (F)
 - Butter/spread (F)
 - Tomato puree (F)
 - Tea/coffee
@@ -37,6 +39,6 @@ _Things marked (F) should be in the fridge_
 - Vinegar (balsamic, white wine)
 - Chilli flakes
 - Paprika
-- Garlic paste (F) 
-- Ginger paste (F) 
+- Garlic paste (F)
+- Ginger paste (F)
 - Stock cubes (vegetable, chicken, beef)
