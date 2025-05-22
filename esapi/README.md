@@ -1,20 +1,19 @@
-#### Eclipse Scripting API
+# Eclipse Scripting API
 
 To quote Varian's own guide to ESAPI:
 
-```
+```text
 Eclipse Scripting API (ESAPI) is an Application Programming Interface (API) that is built into the
 EclipseTMtreatment planning system. This API allows developers to create C#.NET scripts, DLLs,
 and programs that can read and operate on patient data loaded in EclipseTM, or on all patients in
 the Eclipse database
 ```
 
+## Some useful resources
 
-#### Some useful resources:
 - The Varian [developer](https://varianapis.github.io/) site
 - A useful online [book](https://varianapis.github.io/VarianApiBook.pdf) which is quoted from above.
 - [pyESAPI](https://github.com/VarianAPIs/PyESAPI): This is a Python front end to ESAPI. Note that this doesn't seem to be activley maintained
-
 
 ---
 Obvioulsy, the first thing I need to do is [learn a bit of C#](https://github.com/GrahamArden/csharp-learn)
