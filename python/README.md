@@ -1,6 +1,6 @@
-#### Python
+# Python
 
-I like [Python](https://www.python.org) and I use the Python scientific distribution [Anaconda](http://www.anaconda.org) both at work and home
+I like [Python](https://www.python.org)  I use the Python scientific distribution [Anaconda](http://www.anaconda.org) in work. At home I'm using [Arch Linux](../arch_linux/README.md) so I install the packages I need from the Arch repositories.
 
 Anaconda (and it's trimmed down version [miniconda](https://docs.anaconda.com/free/miniconda/)) has a useful command line interface using the command [conda](conda.md).
 
