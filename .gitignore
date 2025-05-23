@@ -7,23 +7,13 @@
 /.obsidian-git
 /.obsidian-recovery
 
-# Exclude the virtual environment
-venv/
-.vs/
-
-# Exclude our api credentials (you really don't want to share these!)
-.api/
-
-
-# Exclude compiled Python files and Jupyter notebooks
-*.pyc
 *.ipynb
-.ipynb_checkpoints/
+*.ipynb_checkpoints
 
-# Exclude the config file, users should create their own
-config.py
-
-# Exclude log files and database (These will contain patient idendifiable data)
-*.log
-*.db
-logs/
+# Quarto files
+*.woff
+*.css
+*.js
+*.html
+*.pdf
+*/libs/*

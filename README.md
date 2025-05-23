@@ -1,10 +1,10 @@
-### Notes
+# Notes
 
 This is a repository for keeping notes , both for work and personal use.  Sometimes, if I'm stuck for an answer, I use [this](https://chat.openai.com)
 
 The beauty of using [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) for notes is that I can edit the .md files in any text editor (or even on [Github](https://github.com/GrahamArden)).
 
-#### Work stuff
+## Work stuff
 
 [Work related (Medical Physics/Radiotherapy)](./work/README.md)
 
@@ -17,12 +17,12 @@ The beauty of using [Markdown](https://github.com/adam-p/markdown-here/wiki/Mark
 - [RTDS6 update](./work/RTDS6_review.md)
 - Leave can be booked [here](https://web.loop.allocate-cloud.co.uk/EmployeeOnlineHealth/HEYTLIVE/Roster/AnnualLeave)
   
-#### Computers
+## Computers
 
 - [General computing stuff](./computing/README.md)
 - [Framework Laptop 13](./computing/framework_13.md) because you should be able to fix things you own.
 - [Network](./computing/network.md)
-- Some useful [software](./computing/software.md) 
+- Some useful [software](./computing/software.md)
 
 __Programming__
 
@@ -35,7 +35,7 @@ __Operating systems__
 - [Arch Linux](./arch_linux/README.md)
 - [MacOS](./macos/README.md)
 
-#### Other _probably more important_ home stuff
+## Other _probably more important_ home stuff
 
 - [Personal](./personal/README.md) includes stuff on travel, camping, gardening (and some useful checklists)
 - If you own it, you should be allowed to [repair it](./personal/Right_to_repair.md)
