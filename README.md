@@ -1,6 +1,6 @@
 ### Notes
 
-This is a repository for keeping notes , both for personal and work use.  Sometimes, if I'm stuck for an answer, I use [this](https://chat.openai.com)
+This is a repository for keeping notes , both for work and personal use.  Sometimes, if I'm stuck for an answer, I use [this](https://chat.openai.com)
 
 The beauty of using [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) for notes is that I can edit the .md files in any text editor (or even on [Github](https://github.com/GrahamArden)).
 
