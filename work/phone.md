@@ -1,5 +1,4 @@
-### Useful phone numbers
-
+# Useful phone numbers
 
 | Name       | Internal  | External       | Mobile    |
 | ---------- | --------- | -------------- | --------- |
@@ -15,7 +14,7 @@
 | Pete Colley| 61381     | 01482 461381   |
 | Techs workshop | 61196 | 01482 461196   |
 
-### Pre-treatment
+## Pre-treatment
 
 | Name       | Internal  | External       |
 | ---------- | --------- | -------------- |
@@ -23,7 +22,7 @@
 | CT2        | 61393     | 01482 461393   |
 | Planning   | 61217     | 01482 461217   |
 
-### Treatment
+## Treatment
 
 | Name          | Internal  | External       |
 | ------------- | --------- | -------------- |
@@ -36,5 +35,3 @@
 | Xstrahl       | 61211     | 01482 461211   |
 | Brachytherapy | 61951     | 01482 461951   |
 | 'Pinks' office| 61378     | 01482 461378   |
-
-
