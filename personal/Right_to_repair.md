@@ -1,4 +1,4 @@
-### Right to Repair
+# Right to Repair
 
 I believe that if you own something then you have the right to repair it. That's the main reason I bought my [Framework laptop 13](../computing/framework_13.md)
 
