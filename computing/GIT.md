@@ -1,4 +1,6 @@
-### Creating a new branch and switching to it
+# Git hints
+
+## Creating a new branch and switching to it
 Create a New Branch:
 
 ```bash
@@ -35,7 +37,7 @@ git branch -D <branch_name>
 ```
 This will delete the specified branch from your local repository. Make sure you're certain you want to delete the branch, as this action cannot be undone
 
-### Deleting a branch from GitHub
+## Deleting a branch from GitHub
 
 To delete a branch from GitHub, you can follow these steps:
 
@@ -53,7 +55,7 @@ To delete a branch from GitHub, you can follow these steps:
 
   - GitHub will ask you to confirm the deletion. Confirm that you want to delete the branch.
 
-### Removing a file or folder from a GIT repository (i.e. stop it being tracked and remove it from github)
+## Removing a file or folder from a GIT repository (i.e. stop it being tracked and remove it from github)
 
 - Locally Remove the Folder:
 
@@ -78,7 +80,7 @@ git push origin branchname
 
 
 
-### Using git subtree
+## Using git subtree
 
 Assuming you want to clone a specific directory called subdirectory from a GitHub repository into your existing Git repository, you can use the following command:
 
@@ -113,7 +115,7 @@ After adding the submodule, you need to initialize and update it:
 git submodule update --init --recursive
 ```
 
-### Undo Uncommitted Changes (Modified Files)
+## Undo Uncommitted Changes (Modified Files)
 If you modified a file but haven't staged it yet:
 
 ```bash
@@ -128,7 +130,7 @@ git reset HEAD <file>
 ```
 This unstages the file, but keeps the modifications.
 
-### Undo Last Commit (But Keep Changes)
+## Undo Last Commit (But Keep Changes)
 If you want to undo the last commit but keep the changes:
 
 ```bash
@@ -136,7 +138,7 @@ git reset --soft HEAD~1
 ```
 This moves the commit back to the staging area.
 
-### Undo Last Commit (Discarding Changes)
+## Undo Last Commit (Discarding Changes)
 If you want to delete the last commit and discard the changes:
 
 ```bash
@@ -144,7 +146,7 @@ git reset --hard HEAD~1
 ```
 ⚠ This is irreversible unless you have backups.
 
-### Undo Last Pushed Commit
+## Undo Last Pushed Commit
 If you've already pushed the commit to a remote branch and want to undo it:
 
 ```bash
@@ -153,7 +155,7 @@ git push --force
 ```
 ⚠ Be careful—this can rewrite history for others.
 
-### Undo a Specific File to a Previous Commit
+## Undo a Specific File to a Previous Commit
 ```bash
 git checkout <commit_hash> -- <file>
 ```
