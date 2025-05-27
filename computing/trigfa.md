@@ -1,4 +1,4 @@
-### lan.trigfa.org.uk
+# lan.trigfa.org.uk
 
 My home network is connected to the internet via full fibre provided by [KCOM](https://www.kcom.com/). I'm actually quite pleased with the service I get from them. A number of other services are moving into the area as their monopoly is ending, but currently I see no reason to change.
 
