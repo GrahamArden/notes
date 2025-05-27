@@ -36,6 +36,8 @@ It's also useful for [sharing patient plans externally](proknow/sharing_patient_
 
 - [2024-02-07](catchup/2024-02-07.md)
 - [2024-01-05](catchup/2024-01-05.md)
+- [2024-04-07](catchup/2024-04-07.md)
+- [2026-05-23](catchup/2026-05-23.md)
 
 
 [up](README.md)
