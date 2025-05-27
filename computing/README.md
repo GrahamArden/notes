@@ -1,4 +1,4 @@
-### Computing
+# Computing
 
 Some of the [software](./software.md) I like to have installed.
 
