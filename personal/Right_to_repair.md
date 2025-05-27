@@ -9,3 +9,5 @@ Here are some useful resources:
 - [iFixit](https://ifixit.com) has guides and resources for repairing a whole range of items (not just computers).
 
 - Louis Rossmann's [Consumer Action Taskforce](https://wiki.rossmanngroup.com/wiki/Main_Page) wiki is slowly growing
+
+Of course, to repair stuff you need a [toolkit](https://tinytoolk.it/). The most useful tools are [the ones you have on you](https://media.ccc.de/v/emf2024-265-the-tiny-tool-kit-manifesto#t=513).
