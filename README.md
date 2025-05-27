@@ -15,7 +15,7 @@ The beauty of using [Markdown](https://github.com/adam-p/markdown-here/wiki/Mark
 - [Radiobiology](./work/radiobiology/README.md)
 - [Phone numbers](./work/phone.md)
 - [RTDS6 update](./work/RTDS6_review.md)
-- Leave can be booked [here](https://web.loop.allocate-cloud.co.uk/EmployeeOnlineHealth/HEYTLIVE/Roster/AnnualLeave)
+- Leave can be booked using [The Loop](https://web.loop.allocate-cloud.co.uk/EmployeeOnlineHealth/HEYTLIVE/Roster/AnnualLeave)
   
 ## Computers
 
@@ -24,13 +24,13 @@ The beauty of using [Markdown](https://github.com/adam-p/markdown-here/wiki/Mark
 - [Network](./computing/network.md)
 - Some useful [software](./computing/software.md)
 
-__Programming__
+## Programming
 
 - [Python](./python/README.md)
 - [Eclipse Scripting API](./esapi/README.md)
 - For version control I use [GitHub](https://github.com/GrahamArden), either within [NeoVim](https://neovim.io/) or on the [command line](https://docs.github.com/en/github-cli/github-cli/about-github-cli)
 
-__Operating systems__
+## Operating systems
 
 - [Arch Linux](./arch_linux/README.md)
 - [MacOS](./macos/README.md)
