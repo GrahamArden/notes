@@ -11,6 +11,9 @@ This is the more interesing stuff
 
 One of these trips, will be when we visit [Krankenhaus](https://krankenhausfestival.com/) at the end of August
 
+## Right to repair
+...because if you own stuff, you should be allowed to [fix it](./Right_to_repair.md)
+
 ## Gardening
 
 We have a [Polytunnel](Polytunnel.md)
