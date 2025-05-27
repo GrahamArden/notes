@@ -1,4 +1,4 @@
-## Arch Linux
+# Arch Linux
 I've been using Linux now since the mid 1990s, starting with Slackware and settled about 2012 with [Arch Linux](https://archlinux.org/) (after trying Red Hat, Ubuntu, Debian and too many other distributions to remember).  
 
 Arch even has an intsaller now (sort of!). A good guide to using it is available [here](http://formatting-kindle.info/arch.txt)
