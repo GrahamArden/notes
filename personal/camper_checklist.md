@@ -29,7 +29,7 @@
 
 ## Other
 
-_These should be kept in the van, but it's best to check_
+_Apart from the [tiny tool kit](https://tinytoolk.it/), these should be kept in the van, but it's best to check_
 
 - 2 x Camping towels
 - 2 x Camp chairs
@@ -45,3 +45,4 @@ _These should be kept in the van, but it's best to check_
 - Foil blankets
 - Small toolkit (screwdrivers, pliers, adjustable spanner, hammer)
 - Spare fuses
+- [Tiny Tool Kit](https://tinytoolk.it/)
