@@ -1,6 +1,6 @@
 # My tiny toolkit
 
-I have started making up my own [tiny toolkit](https://tinytoolk.it/) as I think it's really useful to be able to repair things 'in the field', inc;uding literally when we are camping.
+I have started making up my own [tiny toolkit](https://tinytoolk.it/) as I think it's really useful to be able to repair things 'in the field', including literally 'in a field' when we are camping.
 
 Stuff I have in it so far:
 
