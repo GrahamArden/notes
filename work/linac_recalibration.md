@@ -1,6 +1,7 @@
-### Linac calibration
+# Linac calibration
 
 Reference conditions for Linac photon calibration (6MV, 15MV, 10FFF and 6FFF) at Castle Hill are as follows:
+
 - 10 x 10 cm field
 - 95 cm FSD
 - 5 cm depth

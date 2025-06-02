@@ -1,7 +1,7 @@
 # Useful phone numbers
 
-| Name       | Internal  | External       | Mobile    |
-| ---------- | --------- | -------------- | --------- |
+| Name       | Internal  | External       |
+| ---------- | --------- | -------------- |
 | Carl       | 61371     | 01482 461371   |
 | Tom        | 61369     | 01482 461369   |
 | Catherine  | 61380     | 01482 461380   |
