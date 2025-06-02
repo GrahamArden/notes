@@ -4,10 +4,14 @@ I have started making up my own [tiny toolkit](https://tinytoolk.it/) as I think
 
 Stuff I have in it so far:
 
-## Stuff that screws
+## Things that screw
 - A nice [ratchet screwdriver](https://tinytoolk.it/tools/wera-838-ra-s/)
 - A set of Wera bit's to go with it.
 
-## Stuff that solders
+## Things that solder
 - I have a portable usb soldering iron on order
 - A desoldering gun
+
+## Things that measure
+- A small extendible tape measure
+- A 15cm steel rule
