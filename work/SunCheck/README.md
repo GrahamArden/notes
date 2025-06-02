@@ -1,10 +1,10 @@
-### SunCheck
+# SunCheck
 
 _From 4/03/2024 all SunCheck tasks will be undertaken by the PQSA Physicist for the day._
 
 _Further guidance is available in TP-GD-112_
 
-#### Fraction 0
+## Fraction 0
 
 _These tasks are undertaken by the PQSA Physicist for the day_
 
@@ -12,7 +12,7 @@ _These tasks are undertaken by the PQSA Physicist for the day_
 - Analysis for [PlanCheck, DoseCheck and Fraction 0](./SunCheckAnalysis.md)
 
 
-#### Fraction n
+## Fraction n
 
 _These tasks are undertaken by the PQSA Physicist for the day_
 

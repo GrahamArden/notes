@@ -1,4 +1,4 @@
-### Fraction n analysis
+# Fraction n analysis
 
 _See TP-PRT-2 Patient Specific Quality Control Protocol_
 
