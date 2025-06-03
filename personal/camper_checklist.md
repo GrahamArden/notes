@@ -45,4 +45,4 @@ _Apart from the [tiny tool kit](https://tinytoolk.it/), these should be kept in 
 - Foil blankets
 - Small toolkit (screwdrivers, pliers, adjustable spanner, hammer)
 - Spare fuses
-- [Tiny Tool Kit](https://tinytoolk.it/)
+- [Tiny Tool Kit](./tiny_toolkit.md)
