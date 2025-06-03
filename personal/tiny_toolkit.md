@@ -25,7 +25,7 @@ I have used a large [Lihit pencil case](https://cultpens.com/products/lihit-lab-
 
 ## Things that solder
 
-- I have a portable usb soldering iron on order
+- A Pinecil [soldering iron] (https://tinytoolk.it/tools/pinecil-soldering-iron/)
 - A desoldering gun
 - 2 small tins containing solder and tip cleaner
 
