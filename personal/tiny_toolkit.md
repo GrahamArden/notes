@@ -2,7 +2,7 @@
 
 I have started making up my own [tiny toolkit](https://tinytoolk.it/) as I think it's really useful to be able to repair things 'in the field', including literally 'in a field' when we are camping.
 
-I have used a [large Lihit pencil case](https://cultpens.com/products/lihit-lab-triple-pen-caseStuff) from Cult Pens. Current contents are as follows:
+I have used a large [Lihit pencil case](https://cultpens.com/products/lihit-lab-triple-pen-case) in a rather fetching maroon camo from Cult Pens.  The current contents are as follows:
 
 ## Things that screw
 - A nice [ratchet screwdriver](https://tinytoolk.it/tools/wera-838-ra-s/)
