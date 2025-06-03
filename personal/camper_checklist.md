@@ -43,6 +43,5 @@ _Apart from the [tiny tool kit](https://tinytoolk.it/), these should be kept in 
 - Fire extinguisher
 - Head torch
 - Foil blankets
-- Small toolkit (screwdrivers, pliers, adjustable spanner, hammer)
 - Spare fuses
 - [Tiny Tool Kit](./tiny_toolkit.md)
