@@ -41,4 +41,4 @@ I have used a large [Lihit pencil case](https://cultpens.com/products/lihit-lab-
 - UBB C-to-micro cable
 - Short HDMI-to-HDMI cable
 - USB C-to micro adaptor
-- USB memory stick with [System Rescue CD](https://www.system-rescue.org/) installed
+- USB memory sticks with [System Rescue CD](https://www.system-rescue.org/) and [Arch Linux installer](https://www.archlinux.org). 
