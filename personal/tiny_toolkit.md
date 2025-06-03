@@ -27,6 +27,7 @@ I have used a large [Lihit pencil case](https://cultpens.com/products/lihit-lab-
 
 - I have a portable usb soldering iron on order
 - A desoldering gun
+- 2 small tins containing solder and tip cleaner
 
 ## Things that measure
 
