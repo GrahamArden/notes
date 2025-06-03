@@ -2,16 +2,22 @@
 
 I have started making up my own [tiny toolkit](https://tinytoolk.it/) as I think it's really useful to be able to repair things 'in the field', including literally 'in a field' when we are camping.
 
-Stuff I have in it so far:
+I have used a [large Lihit pencil case](https://cultpens.com/products/lihit-lab-triple-pen-caseStuff) from Cult Pens. Current contents are as follows:
 
 ## Things that screw
 - A nice [ratchet screwdriver](https://tinytoolk.it/tools/wera-838-ra-s/)
 - A set of Wera bit's to go with it.
 
+## Things that turn
+- [Knipex Cobra XS 87-125 pliers wrench](https://tinytoolk.it/tools/knipex-cobra/)
+- Small adjustable spanner
+- small 4mm socket set and ratchet handle
+
 ## Things that cut
 - A cutting mat (cut down from an A5 one so it fits in the pouch)
 - A snap-off blade knife
 - Spare snap-off blades
+- [CK electrician's scissors](https://www.primetools.co.uk/product/ck-492001-heavy-duty-electricians-scissors-140mm-soft-cable-tape-ties/)
 - My old multitool
 
 ## Things that solder
