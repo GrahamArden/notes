@@ -30,7 +30,7 @@ I have used a large [Lihit pencil case](https://cultpens.com/products/lihit-lab-
 
 ## Things that measure
 
-- A small extendible tape measure which I've had for years.. I removed the belt clip to make it even smaller
+- A small extendible tape measure which I've had for years. I removed the belt clip to make it even smaller
 - A 15cm steel rule
 
 ## Things that compute
