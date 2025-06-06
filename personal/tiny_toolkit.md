@@ -8,11 +8,12 @@ I have used a large [Lihit pencil case](https://cultpens.com/products/lihit-lab-
 
 - A nice [ratchet screwdriver](https://tinytoolk.it/tools/wera-838-ra-s/)
 - A set of Wera bit's to go with it.
+- Framework combined T5 screwdriver/spudger
 
 ## Things that turn
 
 - [Knipex Cobra XS 87-125 pliers wrench](https://tinytoolk.it/tools/knipex-cobra/)
-- Small adjustable spanner
+- Bacho 150mm/6" adjustable spanner
 - small 4mm socket set and ratchet handle
 
 ## Things that cut
@@ -27,6 +28,10 @@ I have used a large [Lihit pencil case](https://cultpens.com/products/lihit-lab-
 - A Pinecil [soldering iron](https://tinytoolk.it/tools/pinecil-soldering-iron/)
 - A desoldering gun
 - 2 small tins containing solder and tip cleaner
+
+- Needle nose pliers
+- Small wire cutters
+- Long nose tweezers
 
 ## Things that measure
 
