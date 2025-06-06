@@ -29,6 +29,8 @@ I have used a large [Lihit pencil case](https://cultpens.com/products/lihit-lab-
 - A desoldering gun
 - 2 small tins containing solder and tip cleaner
 
+## Things that hold
+
 - Needle nose pliers
 - Small wire cutters
 - Long nose tweezers
@@ -37,6 +39,7 @@ I have used a large [Lihit pencil case](https://cultpens.com/products/lihit-lab-
 
 - A small extendible tape measure which I've had for years. I removed the belt clip to make it even smaller
 - A 15cm steel rule
+- A cheap multimeter
 
 ## Things that compute
 
