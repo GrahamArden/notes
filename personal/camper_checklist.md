@@ -44,5 +44,5 @@ _Apart from the [tiny tool kit](https://tinytoolk.it/), these should be kept in 
 - Head torch
 - Foil blankets
 - Spare fuses
-- Some washing line and pegs (or peg things on the gut ropes)
+- Some washing line and pegs (or peg things on the guy ropes)
 - [Tiny Tool Kit](./tiny_toolkit.md)
