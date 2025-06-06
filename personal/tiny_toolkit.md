@@ -8,7 +8,7 @@ I have used a large [Lihit pencil case](https://cultpens.com/products/lihit-lab-
 
 - A nice [ratchet screwdriver](https://tinytoolk.it/tools/wera-838-ra-s/)
 - A set of Wera bit's to go with it.
-- Framework combined T5 screwdriver/spudger
+- Framework combined T5 screwdriver/spudger (expensive but it comes with a free [laptop](../computing/framework_13.md))
 
 ## Things that turn
 
