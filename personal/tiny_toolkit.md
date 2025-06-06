@@ -7,8 +7,9 @@ I have used a large [Lihit pencil case](https://cultpens.com/products/lihit-lab-
 ## Things that screw
 
 - A nice [ratchet screwdriver](https://tinytoolk.it/tools/wera-838-ra-s/)
-- A set of Wera bit's to go with it.
+- A set of Wera 6mm hex bit's (but in a light plastic holder rather than the heavier metal one they came in)
 - Framework combined T5 screwdriver/spudger (expensive but it comes with a free [laptop](../computing/framework_13.md))
+- A set of Wiha 4mm hex bits in a light plastic holder.
 
 ## Things that turn
 
