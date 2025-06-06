@@ -22,6 +22,7 @@ I have used a large [Lihit pencil case](https://cultpens.com/products/lihit-lab-
 - A snap-off blade knife
 - Spare snap-off blades
 - [CK electrician's scissors](https://www.primetools.co.uk/product/ck-492001-heavy-duty-electricians-scissors-140mm-soft-cable-tape-ties/)
+- Small wire cutters
 
 ## Things that solder
 
@@ -32,7 +33,6 @@ I have used a large [Lihit pencil case](https://cultpens.com/products/lihit-lab-
 ## Things that hold
 
 - Needle nose pliers
-- Small wire cutters
 - Long nose tweezers
 
 ## Things that measure
