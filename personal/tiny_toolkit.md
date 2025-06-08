@@ -8,7 +8,7 @@ I have used a large [Lihit pencil case](https://cultpens.com/products/lihit-lab-
 
 - A nice [ratchet screwdriver](https://tinytoolk.it/tools/wera-838-ra-s/)
 - A set of Wera 6mm hex bit's (but in a light plastic holder rather than the heavier one they came in)
-- Framework combined T5 screwdriver/spudger (expensive but it comes with a free [laptop](../computing/framework_13.md))
+- Framework combined screwdriver handle/spudger (expensive but it comes with a free [laptop](../computing/framework_13.md))
 - A set of Wiha 4mm hex bits in a light plastic holder.
 
 ## Things that turn
@@ -41,12 +41,3 @@ I have used a large [Lihit pencil case](https://cultpens.com/products/lihit-lab-
 - A small extendible tape measure which I've had for years. I removed the belt clip to make it even smaller
 - A 15cm steel rule
 - A cheap multimeter
-
-## Things that compute
-
-- Openterface Mini-KVM
-- USB C-to-C cable
-- UBB C-to-micro cable
-- Short HDMI-to-HDMI cable
-- USB C-to-A adaptor
-- USB memory sticks with [System Rescue CD](https://www.system-rescue.org/) and [Arch Linux installer](https://www.archlinux.org). 
