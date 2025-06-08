@@ -48,5 +48,5 @@ I have used a large [Lihit pencil case](https://cultpens.com/products/lihit-lab-
 - USB C-to-C cable
 - UBB C-to-micro cable
 - Short HDMI-to-HDMI cable
-- USB C-to micro adaptor
+- USB C-to-A adaptor
 - USB memory sticks with [System Rescue CD](https://www.system-rescue.org/) and [Arch Linux installer](https://www.archlinux.org). 
