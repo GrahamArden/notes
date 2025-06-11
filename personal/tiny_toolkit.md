@@ -27,7 +27,7 @@ I have used a large [Lihit pencil case](https://cultpens.com/products/lihit-lab-
 
 ## Things that solder
 
-- A Pinecil [soldering iron](https://tinytoolk.it/tools/pinecil-soldering-iron/). This runs off the USB power supply that I always carry but it will also run off my USB battery.
+- A Pinecil [soldering iron](https://tinytoolk.it/tools/pinecil-soldering-iron/). Because why wouldn't you want a small [open source](https://github.com/Ralim/IronOS) soldering iron that runs off USB-C. This runs off the USB power supply that I always carry but it will also run off my USB battery.
 - A desoldering gun
 - Tiny soldering iron stand
 - 2 small tins containing solder and tip cleaner
