@@ -27,7 +27,7 @@ Things I like to have installed, whether I'm working on [Arch Linux](../arch_lin
 
 ## Presentations
 
-- I'm currently looking at [Quarto](https://quarto.org) particularly for using notebooks for [presentations](https://quarto.org/docs/presentations/) 
+- I like [Quarto](https://quarto.org) particularly for using notebooks for [presentations](https://quarto.org/docs/presentations/). It means I can keep presentations in a git repository using an open format.
 - Plugins are available for [Neovim](https://quarto.org/docs/get-started/hello/neovim.html), [Jupyter](https://quarto.org/docs/get-started/hello/jupyter.html) and [Visual Studio Code](https://quarto.org/docs/get-started/hello/vscode.html)
 - Unfortunately the Arch Liux [AUR package](https://aur.archlinux.org/packages/quarto-cli-bin) is currently broken so, for the time being, I'm building the [development version](https://github.com/quarto-dev/quarto-cli) from the project's GitHub page. Alternatively, if you don't like living dangerously, you could just install the release version [tarball](https://quarto.org/docs/download/tarball.html)
 
