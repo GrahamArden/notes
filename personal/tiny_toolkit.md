@@ -22,6 +22,7 @@ I have used a large [Lihit pencil case](https://cultpens.com/products/lihit-lab-
 - A cutting mat (cut down from an A5 one so it fits in the pouch)
 - A snap-off blade knife
 - Spare snap-off blades
+- Knippex Cobolt compact bolt cutters
 - [CK electrician's scissors](https://www.primetools.co.uk/product/ck-492001-heavy-duty-electricians-scissors-140mm-soft-cable-tape-ties/)
 - Small wire cutters
 
