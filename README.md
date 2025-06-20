@@ -1,21 +1,8 @@
 # Notes
 
-This is a repository for keeping notes , both for work and personal use.  Sometimes, if I'm stuck for an answer, I use [this](https://chat.openai.com)
+This is a repository for keeping notes.  Sometimes, if I'm stuck for an answer, I use [this](https://chat.openai.com)
 
 The beauty of using [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) for notes is that I can edit the .md files in any text editor (or even on [Github](https://github.com/GrahamArden)).
-
-## Work stuff
-
-[Work related (Medical Physics/Radiotherapy)](./work/README.md)
-
-- [Machine QA](./work/Machine%20QA.md)
-- [PSQA](./work/psqa/README.md)
-- [Treatment planning](./work/treatment_planning/README.md)
-- [Developments](./work/developments/README.md)
-- [Radiobiology](./work/radiobiology/README.md)
-- [Phone numbers](./work/phone.md)
-- [RTDS6 update](./work/RTDS6_review.md)
-- Leave can be booked using [The Loop](https://web.loop.allocate-cloud.co.uk/loop/login)
   
 ## Computers
 
