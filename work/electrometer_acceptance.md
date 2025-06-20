@@ -1,8 +1,0 @@
-#### Electrometer acceptance test measurements
-
-- ~~Linearity: Use timed measurements of charge from 1s up to 600s~~ Done
-- Cross calibration against the secondary standard electrometer (IBA Dose 1 s/n: 11583) in terms of:
-  - ~~current (using check sources and 3 different chambers to give a range of values)~~ Done
-  - ~~charge (pre and post brachytherapy source exchange)~~
- 
-- Repeat constancy checks for _each_ of the chambers. Done for majority of chambers
